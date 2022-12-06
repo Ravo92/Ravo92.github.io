@@ -25,6 +25,7 @@ img.emoji {
 header {
   border-bottom: 1px solid #f3f3f3;
   padding: 1rem;
+  background: #555;
 }
 header.-fixed {
   position: fixed;

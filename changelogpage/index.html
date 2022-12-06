@@ -1,10 +1,14 @@
-<header class="-fixed">
-    <link rel="stylesheet" href="design.css">
-    <meta name="color-scheme" content="dark light">
-    <h1>Click <a href="https://tinyurl.com/patch222langfiles">HERE</a> German translation update: 17.10.2022</h1>
-    <h1>Patch version 2.22v2.9 - 17.10.2022</h1>
-    <h2><a href="https://discord.gg/jATG5Gp">Visit our Discord!</a></h2>
-  </header>
+<!DOCTYPE html>
+<html>
+<header class="-fixed" id="myHeader">
+  <link rel="stylesheet" href="design.css">
+  <meta name="color-scheme" content="dark light">
+  <h1>Click <a href="https://tinyurl.com/patch222langfiles">HERE</a> German translation update: 17.10.2022</h1>
+  <h1>Patch version 2.22v2.9 - 17.10.2022</h1>
+  <h2><a href="https://discord.gg/jATG5Gp">Visit our Discord!</a></h2>
+</header>
+
+<body>
   <div class="wrap-content">
     <article class="changelog">
       <section class="version -planned">
@@ -24,7 +28,7 @@
         <section>
           <div class="label -s -bg" style="background: indigo;">Fixed</div>
           <ul>
-            <li><span class="label-inline -ghost -orange">TODO</span> Feature with an inline label</li>
+            <!--<li><span class="label-inline -ghost -orange">TODO</span> Feature with an inline label</li>-->
             <li>Fixed Nazgul’s and Eagle’s attack - they now grab one unit from the battalion.</li>
             <li>Fixed Darkness glow animation</li>
             <li>Fixed Eomer’s ability to attack.</li>
@@ -33,3 +37,21 @@
       </section>
     </article>
   </div>
+
+  <script>
+    window.onscroll = function () { myFunction() };
+
+    var header = document.getElementById("myHeader");
+    var sticky = header.offsetTop;
+
+    function myFunction() {
+      if (window.pageYOffset > sticky) {
+        header.classList.add("sticky");
+      } else {
+        header.classList.remove("sticky");
+      }
+    }
+  </script>
+</body>
+
+</html>
