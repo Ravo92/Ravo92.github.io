@@ -2,7 +2,6 @@
 <html>
 <header class="-fixed" id="myHeader">
   <link rel="stylesheet" href="design.css">
-  <meta name="color-scheme" content="dark light">
   <h1>Click <a href="https://tinyurl.com/patch222langfiles" target="_blank" >HERE</a> German translation update: 17.10.2022</h1>
 </header>
 
@@ -37,6 +36,8 @@
   </div>
 
   <script>
+    document.addEventListener('contextmenu', event => event.preventDefault());
+
     window.onscroll = function () { myFunction() };
 
     var header = document.getElementById("myHeader");
