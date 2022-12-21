@@ -97,6 +97,11 @@ header.-fixed + .wrap-content {
   max-width: 1024px;
   margin: 0 auto;
 }
+
+.changelog{
+  border-bottom: 1px solid #f3f3f3;
+}
+
 article{
   padding: 10px;
   header{

@@ -93,6 +93,10 @@ header.-fixed + .wrap-content {
   margin: 0 auto;
 }
 
+.changelog {
+  border-bottom: 1px solid #f3f3f3;
+}
+
 article {
   padding: 10px;
 }
