@@ -5,6 +5,7 @@ html {
 
 /* Create a sticky/fixed navbar */
 #navbar {
+  padding: 0px 0px 0px 40px;
   overflow: hidden;
   transition: 0.4s; /* Adds a transition effect when the padding is decreased */
   width: 100%;
@@ -83,7 +84,7 @@ header > * {
 }
 
 header.-fixed + .wrap-content {
-  padding-top: 500px;
+  padding-top: 530px;
 }
 
 .wrap-content {
@@ -98,7 +99,7 @@ header.-fixed + .wrap-content {
 }
 
 article {
-  padding: 10px;
+  padding: 30px 10px 10px 40px;
 }
 article header {
   border-bottom: 1px solid #4d4d4d;
