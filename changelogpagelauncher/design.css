@@ -9,6 +9,7 @@ html {
   transition: 0.4s; /* Adds a transition effect when the padding is decreased */
   width: 100%;
   z-index: 99;
+  padding: 10px;
 }
 
 a:link {
@@ -83,6 +84,7 @@ header > * {
 }
 
 .wrap-content {
+  padding: 10px;
   overflow-y: auto;
   min-height: calc(100vh - 64px);
   max-width: 1024px;
