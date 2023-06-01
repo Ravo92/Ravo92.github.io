@@ -12,30 +12,6 @@ html {
   z-index: 99;
 }
 
-a:link {
-  color: green;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:visited {
-  color: red;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:hover {
-  color: pink;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
-a:active {
-  color: yellow;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
 *::before,
 *,
 *::after {
@@ -50,13 +26,6 @@ body {
   color: #FFFFFF;
 }
 
-img.emoji {
-  height: 1em;
-  width: 1em;
-  margin: 0 0.05em 0 0.1em;
-  vertical-align: -0.1em;
-}
-
 mark.red {
   color: #ff0000;
   background: none;
@@ -65,26 +34,6 @@ mark.red {
 mark.green {
   color: #14af00;
   background: none;
-}
-
-header {
-  border-bottom: 1px solid #f3f3f3;
-  padding: 1rem;
-  background: #181818;
-}
-header.-fixed {
-  position: fixed;
-  top: 0;
-  width: 100%;
-  z-index: 1;
-}
-header > * {
-  max-width: 1024px;
-  margin: 0 auto;
-}
-
-header.-fixed + .wrap-content {
-  padding-top: 530px;
 }
 
 .wrap-content {
