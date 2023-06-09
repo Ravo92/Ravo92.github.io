@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<mainPack>
+		<gameMainPackageURL>https://dl.dropboxusercontent.com/s/9sn0e8w8w834ywi/BFME1.7z</gameMainPackageURL>
+	</mainPack>
+	<patch222Pack>
+		<version>33</version>
+	</patch222Pack>
+	<languagePacks>
+		<en_us>
+			<url>https://www.dropbox.com/scl/fi/wbsgmnk0srey634crsjlw/LangPack_EN.7z?dl=1&amp;rlkey=97nn16xud3dej836dom4kt8me</url>
+			<md5>FDE15BA61BE8C1B321E13A4BA9D8C4A8</md5>
+		</en_us>
+		<fr_fr>
+			<url>https://www.dropbox.com/scl/fi/1k7szue1fzy6am0bd67d5/LangPack_FR.7z?dl=1&amp;rlkey=eek0cudp1xs0m61ljw1r2tq3h</url>
+			<md5>5D2985454875068484066406AA7CC541</md5>
+		</fr_fr>
+		<de>
+			<url>https://www.dropbox.com/scl/fi/p1nrdmy1h3xuivkdxf8n0/LangPack_DE.7z?dl=1&amp;rlkey=32wucn1px2em8v9e88nhh8ozx</url>
+			<md5>7E52789D5E415013574EE8763502E80D</md5>
+		</de>
+		<it>
+			<url>https://www.dropbox.com/scl/fi/qk3oswkhjpqnkayvqdkfv/LangPack_IT.7z?dl=1&amp;rlkey=a3rhxrf93kl9b15fwxiegyg02</url>
+			<md5>73ECCA23850069BBA2C8CE1D15EC94B0</md5>
+		</it>
+		<es>
+			<url>https://www.dropbox.com/scl/fi/30m1eb0j0v97klorhqsxg/LangPack_ES.7z?dl=1&amp;rlkey=qbs6ra5dpcstiz8zpwr7w59hh</url>
+			<md5>3B09ACECCAF138A531A7925AA6AAB436</md5>
+		</es>
+		<sv>
+			<url>https://www.dropbox.com/scl/fi/634mtb3za9vhl5v1v83k7/LangPack_SV.7z?dl=1&amp;rlkey=sg5wytduij46vd91u0jif3q7k</url>
+			<md5>7C4563C7FAFD94DDAB50151F974CB3B0</md5>
+		</sv>
+		<nl>
+			<url>https://www.dropbox.com/scl/fi/9qklup5oa2jrdsbxtj8rt/LangPack_NL.7z?dl=1&amp;rlkey=gb3m0f6009vn32evh2cnaaojd</url>
+			<md5>2B64335C8A439B68F57AAC96A5CDD31D</md5>
+		</nl>
+		<pl>
+			<url>https://www.dropbox.com/scl/fi/rnupv7afzzazgmzfdafkp/LangPack_PL.7z?dl=1&amp;rlkey=fyvmgckvs5k55ljeklutk0v4q</url>
+			<md5>57530ADBB2BF5A041B062EA97291FFF5</md5>
+		</pl>
+		<no>
+			<url>https://www.dropbox.com/scl/fi/6ij6zwoijumhwbfqz5ago/LangPack_NO.7z?dl=1&amp;rlkey=namt4two5wezni4bwavfpt4zw</url>
+			<md5>25BDB640F74BC58BD4D0CE23E0233A60</md5>
+		</no>
+	</languagePacks>
+</XML>
