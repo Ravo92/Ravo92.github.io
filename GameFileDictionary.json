@@ -18,17 +18,23 @@
             {
                 "version": 106,
                 "url": "https://dl.dropboxusercontent.com/s/0j4u35hetr3if5j/Patch_1.06.7z",
-                "md5": "FDE15BA61BE8C1B321E13A4BA9D8C4A8"
+                "md5": "FDE15BA61BE8C1B321E13A4BA9D8C4A8",
+                "patchPackName": "Patch_1.06.7z",
+                "LanguagePackName": "_germanpatch106.big"
             },
             {
                 "version": 33,
                 "url": "https://www.dropbox.com/scl/fi/0oc0ebbqk2ps1cb3qws46/Patch_2.22v33.7z?dl=1&rlkey=0zcwxhphd8smtvjobsgh0rbs9",
-                "md5": "FDE15BA61BE8C1B321E13A4BA9D8C4A8"
+                "md5": "FDE15BA61BE8C1B321E13A4BA9D8C4A8",
+                "patchPackName": "Patch_2.22v33.7z",
+                "LanguagePackName": "_patch222translation_ger.big"
             },
             {
                 "version": 34,
                 "url": "https://www.dropbox.com/scl/fi/uyuh8jl936z7t9l6vf4jb/Patch_2.22v34.7z?dl=1&rlkey=94y4ifn40pb78djvihmewoib3",
-                "md5": "FDE15BA61BE8C1B321E13A4BA9D8C4A8"
+                "md5": "FDE15BA61BE8C1B321E13A4BA9D8C4A8",
+                "patchPackName": "Patch_2.22v34.7z",
+                "LanguagePackName": "_patch222translation_ger.big"
             }
         ]
     },
