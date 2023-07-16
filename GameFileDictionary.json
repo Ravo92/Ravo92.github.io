@@ -66,28 +66,26 @@
                 "url": "https://www.dropbox.com/scl/fi/0oc0ebbqk2ps1cb3qws46/Patch_2.22v33.7z?dl=1&rlkey=0zcwxhphd8smtvjobsgh0rbs9",
                 "md5": "FDE15BA61BE8C1B321E13A4BA9D8C4A8",
                 "filename": "Patch_2.22v33.7z",
-                "languageFiles": [
-                    {
-                        "language": "de",
+                "languageFiles": {
+                    "de": {
                         "url": "https://www.dropbox.com/scl/fi/0oc0ebbqk2ps1cb3qws46/Patch_2.22v33.7z?dl=1&rlkey=0zcwxhphd8smtvjobsgh0rbs9",
                         "md5": "FDE15BA61BE8C1B321E13A4BA9D8C4A8",
                         "filename": "_patch222translation_ger.big"
                     }
-                ]
+                }
             },
             {
                 "version": 22234,
                 "url": "https://www.dropbox.com/scl/fi/uyuh8jl936z7t9l6vf4jb/Patch_2.22v34.7z?dl=1&rlkey=94y4ifn40pb78djvihmewoib3",
                 "md5": "FDE15BA61BE8C1B321E13A4BA9D8C4A8",
                 "filename": "Patch_2.22v34.7z",
-                "languageFiles": [
-                    {
-                        "language": "de",
-                        "url": "https://www.dropbox.com/scl/fi/dg708cufqjrf9fz7kpyzm/_germanpatch22234.big?rlkey=wlpvzxwh9nqa91kz1a0g8hi23&dl=1",
-                        "md5": "AF371C3BF1AF15DEE38FAC47A75E1581",
-                        "filename": "_germanpatch222.big"
+                "languageFiles": {
+                    "de": {
+                        "url": "https://www.dropbox.com/scl/fi/0oc0ebbqk2ps1cb3qws46/Patch_2.22v33.7z?dl=1&rlkey=0zcwxhphd8smtvjobsgh0rbs9",
+                        "md5": "FDE15BA61BE8C1B321E13A4BA9D8C4A8",
+                        "filename": "_patch222translation_ger.big"
                     }
-                ]
+                }
             }
         ]
     },
