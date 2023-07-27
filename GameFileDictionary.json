@@ -3,16 +3,19 @@
         "BFME1": {
             "url": "https://dl.dropboxusercontent.com/s/9sn0e8w8w834ywi/BFME1.7z",
             "md5": "97258F514DCE6EB4D5D110DBB4D3CCA3",
+            "filename": "BFME1.7z",
             "latestPatchVersionOfficial": 103
         },
         "BFME2": {
             "url": "https://dl.dropboxusercontent.com/s/9sn0e8w8w834ywi/BFME2.7z",
             "md5": "FDE15BA61BE8C1B321E13A4BA9D8C4A8",
+            "filename": "BFME2.7z",
             "latestPatchVersionOfficial": 106
         },
         "BFME25": {
             "url": "https://dl.dropboxusercontent.com/s/9sn0e8w8w834ywi/BFME25.7z",
             "md5": "FDE15BA61BE8C1B321E13A4BA9D8C4A8",
+            "filename": "BFME25.7z",
             "latestPatchVersionOfficial": 201
         }
     },
