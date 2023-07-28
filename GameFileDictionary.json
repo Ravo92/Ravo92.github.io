@@ -89,6 +89,19 @@
                         "filename": "_patch222german.big"
                     }
                 }
+            },
+            {
+                "version": 22235,
+                "url": "https://www.dropbox.com/scl/fi/hn7udj8v00nqrqe8fejct/Patch_2.22v35.7z?rlkey=fi5wijteqifwv261f7a5wb9ts&dl=1",
+                "md5": "5DC0EF80E217CE3DD090D4E1510DEC99",
+                "filename": "Patch_2.22v35.7z",
+                "languageFiles": {
+                    "de": {
+                        "url": "https://www.dropbox.com/scl/fi/dg708cufqjrf9fz7kpyzm/_germanpatch22234.big?dl=1&rlkey=wlpvzxwh9nqa91kz1a0g8hi23",
+                        "md5": "32C22D2FACA51672EB09BD8612F4C08A",
+                        "filename": "_patch222german.big"
+                    }
+                }
             }
         ]
     },
