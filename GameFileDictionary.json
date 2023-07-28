@@ -107,7 +107,7 @@
     },
     "patchPacksBeta": {
         "BFME1": {
-            "version": 11,
+            "version": 0,
             "majorVersion": 222,
             "minorVersion": 35,
             "url": "https://www.dropbox.com/scl/fi/k3r27ai44m6p8nyfd7k51/Patch222v35_BETA_11.7z?rlkey=iyk80qmq96j84l64antfqm7ez&dl=1",
