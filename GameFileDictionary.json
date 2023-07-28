@@ -94,12 +94,12 @@
     },
     "patchPacksBeta": {
         "BFME1": {
-            "version": 0,
+            "version": 11,
             "majorVersion": 222,
             "minorVersion": 35,
-            "url": "https://www.dropbox.com/scl/fi/uyuh8jl936z7t9l6vf4jb/Patch_2.22v34.7z?dl=1&rlkey=94y4ifn40pb78djvihmewoib3",
-            "md5": "FDE15BA61BE8C1B321E13A4BA9D8C4A8",
-            "filename": "Patch_2.22v35Beta2.7z"
+            "url": "https://www.dropbox.com/scl/fi/k3r27ai44m6p8nyfd7k51/Patch222v35_BETA_11.7z?rlkey=iyk80qmq96j84l64antfqm7ez&dl=1",
+            "md5": "5DC0EF80E217CE3DD090D4E1510DEC99",
+            "filename": "Patch222v35_BETA_11.7z"
         }
     },
     "languagePacks": {
