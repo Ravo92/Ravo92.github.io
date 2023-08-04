@@ -93,12 +93,12 @@
             {
                 "version": 22235,
                 "url": "https://www.dropbox.com/scl/fi/hn7udj8v00nqrqe8fejct/Patch_2.22v35.7z?rlkey=fi5wijteqifwv261f7a5wb9ts&dl=1",
-                "md5": "5DC0EF80E217CE3DD090D4E1510DEC99",
+                "md5": "3FEA24A4667453A190C69BC5AC416040",
                 "filename": "Patch_2.22v35.7z",
                 "languageFiles": {
                     "de": {
-                        "url": "https://www.dropbox.com/scl/fi/dg708cufqjrf9fz7kpyzm/_germanpatch22234.big?dl=1&rlkey=wlpvzxwh9nqa91kz1a0g8hi23",
-                        "md5": "32C22D2FACA51672EB09BD8612F4C08A",
+                        "url": "https://www.dropbox.com/scl/fi/kwd7kk7cz33uajwxilidj/_germanpatch22235.big?rlkey=u6ibv1j9384t6psbpa6tg085g&dl=1",
+                        "md5": "B32C436DF8C816C280F040FA46E5CD71",
                         "filename": "_patch222german.big"
                     }
                 }
@@ -109,10 +109,10 @@
         "BFME1": {
             "version": 0,
             "majorVersion": 222,
-            "minorVersion": 35,
-            "url": "https://www.dropbox.com/scl/fi/k3r27ai44m6p8nyfd7k51/Patch222v35_BETA_11.7z?rlkey=iyk80qmq96j84l64antfqm7ez&dl=1",
-            "md5": "5DC0EF80E217CE3DD090D4E1510DEC99",
-            "filename": "Patch222v35_BETA_11.7z"
+            "minorVersion": 36,
+            "url": "https://www.dropbox.com/scl/fi/hn7udj8v00nqrqe8fejct/Patch_2.22v35.7z?rlkey=fi5wijteqifwv261f7a5wb9ts&dl=1",
+            "md5": "3FEA24A4667453A190C69BC5AC416040",
+            "filename": "Patch222v36_BETA_0.7z"
         }
     },
     "languagePacks": {
