@@ -7,8 +7,8 @@
             "latestPatchVersionOfficial": 103
         },
         "BFME2": {
-            "url": "https://dl.dropboxusercontent.com/s/9sn0e8w8w834ywi/BFME2.7z",
-            "md5": "FDE15BA61BE8C1B321E13A4BA9D8C4A8",
+            "url": "https://www.dropbox.com/scl/fi/vbbp1983qw9sykmpakwo6/BFME2.7z?rlkey=5qu8cstflt4vyusc08esl36gy&dl=1",
+            "md5": "ADBEF7B60B6A7ADB50E78FDF5574678E",
             "filename": "BFME2.7z",
             "latestPatchVersionOfficial": 106
         },
@@ -103,10 +103,30 @@
                     }
                 }
             }
+        ],
+        "BFME2":[
+            {
+                "version": 109,
+                "url": "https://download2388.mediafire.com/t84lltmqd7rgQKlRCZqQnuLTr6Go_ch_yuqfg3CS-wiTfF0PUyeyEiqjM-7zi5hru8aDwNl2EJWH45Av-24oHrP27WBLWEM6D3uyIuqVs8oJjZxcLquBlMzLh_nwZJ4C3Sq6KGsmru1UCLnJytQK6IMeWvuf2A89rQplzF7JYEPkPw/pdkpsk3yfzscand/PatchSwitcherInstaller%284%29.rar",
+                "md5": "2D90385DA6D076BF00C430FA2A079F96",
+                "filename": "Patch_1.09.rar",
+                "hasExternalClient": true,
+                "externalClientHasLaunchAbility": false,
+                "languageFiles": {
+                }
+            }
         ]
     },
     "patchPacksBeta": {
         "BFME1": {
+            "version": 0,
+            "majorVersion": 222,
+            "minorVersion": 36,
+            "url": "https://www.dropbox.com/scl/fi/hn7udj8v00nqrqe8fejct/Patch_2.22v35.7z?rlkey=fi5wijteqifwv261f7a5wb9ts&dl=1",
+            "md5": "3FEA24A4667453A190C69BC5AC416040",
+            "filename": "Patch222v36_BETA_0.7z"
+        },
+        "BFME2": {
             "version": 0,
             "majorVersion": 222,
             "minorVersion": 36,
@@ -118,11 +138,85 @@
     "languagePacks": {
         "BFME1": [
             {
-                "url": "https://www.dropbox.com/scl/fi/wbsgmnk0srey634crsjlw/LangPack_EN.7z?dl=1&rlkey=97nn16xud3dej836dom4kt8me",
+                "url": "https://www.dropbox.com/scl/fi/wbsgmnk0srey634crsjlw/LangPack_EN.7z?rlkey=97nn16xud3dej836dom4kt8me&dl=1",
                 "md5": "FDE15BA61BE8C1B321E13A4BA9D8C4A8",
                 "RegistrySelectedLanguageName": "English US",
                 "RegistrySelectedLanguage": "English",
                 "RegistrySelectedLocale": "en_us",
+                "LanguagePackName": "LangPack_EN.7z"
+            },
+            {
+                "url": "https://www.dropbox.com/scl/fi/1k7szue1fzy6am0bd67d5/LangPack_FR.7z?rlkey=eek0cudp1xs0m61ljw1r2tq3h&dl=1",
+                "md5": "5D2985454875068484066406AA7CC541",
+                "RegistrySelectedLanguageName": "French",
+                "RegistrySelectedLanguage": "French",
+                "RegistrySelectedLocale": "fr_fr",
+                "LanguagePackName": "LangPack_FR.7z"
+            },
+            {
+                "url": "https://www.dropbox.com/scl/fi/p1nrdmy1h3xuivkdxf8n0/LangPack_DE.7z?rlkey=32wucn1px2em8v9e88nhh8ozx&dl=1",
+                "md5": "7E52789D5E415013574EE8763502E80D",
+                "RegistrySelectedLanguageName": "German",
+                "RegistrySelectedLanguage": "German",
+                "RegistrySelectedLocale": "de",
+                "LanguagePackName": "LangPack_DE.7z"
+            },
+            {
+                "url": "https://www.dropbox.com/scl/fi/qk3oswkhjpqnkayvqdkfv/LangPack_IT.7z?rlkey=a3rhxrf93kl9b15fwxiegyg02&dl=1",
+                "md5": "73ECCA23850069BBA2C8CE1D15EC94B0",
+                "RegistrySelectedLanguageName": "Italian",
+                "RegistrySelectedLanguage": "Italian",
+                "RegistrySelectedLocale": "it",
+                "LanguagePackName": "LangPack_IT.7z"
+            },
+            {
+                "url": "https://www.dropbox.com/scl/fi/30m1eb0j0v97klorhqsxg/LangPack_ES.7z?rlkey=qbs6ra5dpcstiz8zpwr7w59hh&dl=1",
+                "md5": "3B09ACECCAF138A531A7925AA6AAB436",
+                "RegistrySelectedLanguageName": "Spanish",
+                "RegistrySelectedLanguage": "Spanish",
+                "RegistrySelectedLocale": "es",
+                "LanguagePackName": "LangPack_ES.7z"
+            },
+            {
+                "url": "https://www.dropbox.com/scl/fi/634mtb3za9vhl5v1v83k7/LangPack_SV.7z?;rlkey=sg5wytduij46vd91u0jif3q7k&dl=1",
+                "md5": "7C4563C7FAFD94DDAB50151F974CB3B0",
+                "RegistrySelectedLanguageName": "Swedish",
+                "RegistrySelectedLanguage": "Swedish",
+                "RegistrySelectedLocale": "sv",
+                "LanguagePackName": "LangPack_SV.7z"
+            },
+            {
+                "url": "https://www.dropbox.com/scl/fi/9qklup5oa2jrdsbxtj8rt/LangPack_NL.7z?rlkey=gb3m0f6009vn32evh2cnaaojd&dl=1",
+                "md5": "2B64335C8A439B68F57AAC96A5CDD31D",
+                "RegistrySelectedLanguageName": "Dutch",
+                "RegistrySelectedLanguage": "Dutch",
+                "RegistrySelectedLocale": "nl",
+                "LanguagePackName": "LangPack_NL.7z"
+            },
+            {
+                "url": "https://www.dropbox.com/scl/fi/rnupv7afzzazgmzfdafkp/LangPack_PL.7z?rlkey=fyvmgckvs5k55ljeklutk0v4q&dl=1",
+                "md5": "57530ADBB2BF5A041B062EA97291FFF5",
+                "RegistrySelectedLanguageName": "Polish",
+                "RegistrySelectedLanguage": "Polish",
+                "RegistrySelectedLocale": "pl",
+                "LanguagePackName": "LangPack_PL.7z"
+            },
+            {
+                "url": "https://www.dropbox.com/scl/fi/6ij6zwoijumhwbfqz5ago/LangPack_NO.7z?rlkey=namt4two5wezni4bwavfpt4zw&dl=1",
+                "md5": "25BDB640F74BC58BD4D0CE23E0233A60",
+                "RegistrySelectedLanguageName": "Norwegian",
+                "RegistrySelectedLanguage": "Norwegian",
+                "RegistrySelectedLocale": "no",
+                "LanguagePackName": "LangPack_NO.7z"
+            }
+        ],
+        "BFME2": [
+            {
+                "url": "https://www.dropbox.com/scl/fi/fwla68u75yurehwjdb0vy/LangPack_EN.7z?rlkey=c14gq06rm5lds2mt161h0m7lk&dl=1",
+                "md5": "F6F129322F7D43ECD49A49A3B0B51EC2",
+                "RegistrySelectedLanguageName": "English UK",
+                "RegistrySelectedLanguage": "English",
+                "RegistrySelectedLocale": "en_uk",
                 "LanguagePackName": "LangPack_EN.7z"
             },
             {
