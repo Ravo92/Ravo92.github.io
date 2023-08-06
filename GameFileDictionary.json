@@ -112,7 +112,9 @@
                 "filename": "Patch_1.09.rar",
                 "hasExternalInstaller": true,
                 "externalInstallerHasLaunchAbility": false,
-                "registryPathForInstalledProgram": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\BFME2 Patch Switcher",
+                "registryPathForInstalledProgram": "SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\BFME2 Patch Switcher",
+                "registryKeyName": "InstallLocation",
+                "thirdPartyToolExecutableName": "BFME2PatchSwitcher.exe",
                 "languageFiles": {
                 }
             }
