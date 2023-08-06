@@ -110,8 +110,9 @@
                 "url": "https://download2388.mediafire.com/t84lltmqd7rgQKlRCZqQnuLTr6Go_ch_yuqfg3CS-wiTfF0PUyeyEiqjM-7zi5hru8aDwNl2EJWH45Av-24oHrP27WBLWEM6D3uyIuqVs8oJjZxcLquBlMzLh_nwZJ4C3Sq6KGsmru1UCLnJytQK6IMeWvuf2A89rQplzF7JYEPkPw/pdkpsk3yfzscand/PatchSwitcherInstaller%284%29.rar",
                 "md5": "2D90385DA6D076BF00C430FA2A079F96",
                 "filename": "Patch_1.09.rar",
-                "hasExternalClient": true,
-                "externalClientHasLaunchAbility": false,
+                "hasExternalInstaller": true,
+                "externalInstallerHasLaunchAbility": false,
+                "registryPathForInstalledProgram": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\BFME2 Patch Switcher",
                 "languageFiles": {
                 }
             }
