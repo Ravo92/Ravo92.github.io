@@ -223,23 +223,23 @@
                 "LanguagePackName": "LangPack_EN.7z"
             },
             {
-                "url": "https://www.dropbox.com/scl/fi/1k7szue1fzy6am0bd67d5/LangPack_FR.7z?dl=1&rlkey=eek0cudp1xs0m61ljw1r2tq3h",
-                "md5": "5D2985454875068484066406AA7CC541",
+                "url": "https://www.dropbox.com/scl/fi/xj98yus3t17t6fqkay40v/LangPack_FR.7z?rlkey=04k76dckufw7vt354ims88d7o&dl=1",
+                "md5": "0A4EEA8B342EB9816F95EFA0918CA8DE",
                 "RegistrySelectedLanguageName": "French",
                 "RegistrySelectedLanguage": "French",
                 "RegistrySelectedLocale": "fr_fr",
                 "LanguagePackName": "LangPack_FR.7z"
             },
             {
-                "url": "https://www.dropbox.com/scl/fi/p1nrdmy1h3xuivkdxf8n0/LangPack_DE.7z?dl=1&rlkey=32wucn1px2em8v9e88nhh8ozx",
-                "md5": "7E52789D5E415013574EE8763502E80D",
+                "url": "https://www.dropbox.com/scl/fi/si13dyjs91j800ry0tvev/LangPack_DE.7z?rlkey=ykyyhw3smql37ijbd93uljdi9&dl=1",
+                "md5": "094E59D937634013A7B4E9C611BAFBE4",
                 "RegistrySelectedLanguageName": "German",
                 "RegistrySelectedLanguage": "German",
                 "RegistrySelectedLocale": "de",
                 "LanguagePackName": "LangPack_DE.7z"
             },
             {
-                "url": "https://www.dropbox.com/scl/fi/qk3oswkhjpqnkayvqdkfv/LangPack_IT.7z?dl=1&rlkey=a3rhxrf93kl9b15fwxiegyg02",
+                "url": "https://www.dropbox.com/scl/fi/np3d1jx6znaxgbi3mfbe6/LangPack_IT.7z?rlkey=yltvaqtm42aaooh253igo24z0&dl=1",
                 "md5": "73ECCA23850069BBA2C8CE1D15EC94B0",
                 "RegistrySelectedLanguageName": "Italian",
                 "RegistrySelectedLanguage": "Italian",
@@ -247,44 +247,12 @@
                 "LanguagePackName": "LangPack_IT.7z"
             },
             {
-                "url": "https://www.dropbox.com/scl/fi/30m1eb0j0v97klorhqsxg/LangPack_ES.7z?dl=1&rlkey=qbs6ra5dpcstiz8zpwr7w59hh",
-                "md5": "3B09ACECCAF138A531A7925AA6AAB436",
+                "url": "https://www.dropbox.com/scl/fi/age2ruie7j0fbua36txjr/LangPack_ES.7z?rlkey=vg32ah3xc8zdfw1nt14ormscu&dl=1",
+                "md5": "D74C3E1830B6F4F6C89D3C67D382EACA",
                 "RegistrySelectedLanguageName": "Spanish",
                 "RegistrySelectedLanguage": "Spanish",
                 "RegistrySelectedLocale": "es",
                 "LanguagePackName": "LangPack_ES.7z"
-            },
-            {
-                "url": "https://www.dropbox.com/scl/fi/634mtb3za9vhl5v1v83k7/LangPack_SV.7z?dl=1&;rlkey=sg5wytduij46vd91u0jif3q7k",
-                "md5": "7C4563C7FAFD94DDAB50151F974CB3B0",
-                "RegistrySelectedLanguageName": "Swedish",
-                "RegistrySelectedLanguage": "Swedish",
-                "RegistrySelectedLocale": "sv",
-                "LanguagePackName": "LangPack_SV.7z"
-            },
-            {
-                "url": "https://www.dropbox.com/scl/fi/9qklup5oa2jrdsbxtj8rt/LangPack_NL.7z?dl=1&rlkey=gb3m0f6009vn32evh2cnaaojd",
-                "md5": "2B64335C8A439B68F57AAC96A5CDD31D",
-                "RegistrySelectedLanguageName": "Dutch",
-                "RegistrySelectedLanguage": "Dutch",
-                "RegistrySelectedLocale": "nl",
-                "LanguagePackName": "LangPack_NL.7z"
-            },
-            {
-                "url": "https://www.dropbox.com/scl/fi/rnupv7afzzazgmzfdafkp/LangPack_PL.7z?dl=1&rlkey=fyvmgckvs5k55ljeklutk0v4q",
-                "md5": "57530ADBB2BF5A041B062EA97291FFF5",
-                "RegistrySelectedLanguageName": "Polish",
-                "RegistrySelectedLanguage": "Polish",
-                "RegistrySelectedLocale": "pl",
-                "LanguagePackName": "LangPack_PL.7z"
-            },
-            {
-                "url": "https://www.dropbox.com/scl/fi/6ij6zwoijumhwbfqz5ago/LangPack_NO.7z?dl=1&rlkey=namt4two5wezni4bwavfpt4zw",
-                "md5": "25BDB640F74BC58BD4D0CE23E0233A60",
-                "RegistrySelectedLanguageName": "Norwegian",
-                "RegistrySelectedLanguage": "Norwegian",
-                "RegistrySelectedLocale": "no",
-                "LanguagePackName": "LangPack_NO.7z"
             }
         ]
     }
