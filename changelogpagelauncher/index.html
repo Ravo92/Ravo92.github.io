@@ -1,45 +1,89 @@
 <!DOCTYPE html>
 <html>
-  <header class="page-header">
-    <link rel="stylesheet" href="design.css">
-    <style> body {
+<header class="page-header">
+  <link rel="stylesheet" href="design.css">
+  <style>
+    body {
       background-image: url('img/BGMap.png');
       background-repeat: repeat-y;
       background-size: 100% 15%;
-      } </style>
-    <div id="navbar">
-      <div class="header">
-        <h1 class="version-num">Special Thanks:</h1>
-      </div>
-      <section>
-        <table class="tg" style="table-layout: fixed; width: 750px">
-          <colgroup>
-            <col style="width: 150px">
-            <col style="width: 400px">
-          </colgroup>
-          <tr>
-            <td>lukaa</a></td>
-            <td>Stress test and mental support</td>
-          </tr>
-          <tr>
-            <td>Balindru CiwiTanga</a></td>
-            <td>Testing</td>
-          </tr>
-          <tr>
-            <td>Mateusz316</a></td>
-            <td>VIP, Testing</td>
-          </tr>
-          <tr>
-            <td><a href="https://github.com/dginovker" target="_blank">Red Bracket</a></td>
-            <td>Github-Help</td>
-          </tr>
-        </table>
-      </section>
+    }
+  </style>
+  <div id="navbar">
+    <div class="header">
+      <h1 class="version-num">Special Thanks:</h1>
     </div>
-  </header>
+    <section>
+      <table class="tg" style="table-layout: fixed; width: 750px">
+        <colgroup>
+          <col style="width: 150px">
+          <col style="width: 400px">
+        </colgroup>
+        <tr>
+          <td>lukaa</a></td>
+          <td>Stress test and mental support</td>
+        </tr>
+        <tr>
+          <td>Balindru CiwiTanga</a></td>
+          <td>Testing</td>
+        </tr>
+        <tr>
+          <td>Mateusz316</a></td>
+          <td>VIP, Testing</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/dginovker" target="_blank">Red Bracket</a></td>
+          <td>Github-Help</td>
+        </tr>
+      </table>
+    </section>
+  </div>
+</header>
 
 <body>
   <div class="wrap-content">
+
+    <article class="changelog">
+      <section class="version -planned">
+        <div class="header">
+          <h2 class="version-num">Launcher Update 1.0.5.0</h2>
+          <time class="datetime" datetime="08-11-2023">11.08.2023</time>
+        </div>
+        <section>
+          <div class="label -s -bg" style="background: indigo;">FEATURES</div>
+          <ul>
+            <li>Added &nbsp; <b>Battle for Middle-Earth&trade; II</b> &nbsp; and &nbsp; <b>Battle
+                for Middle-Earth&trade; II - The Rise of the Witch-King&trade;</b></li>
+            <li><br></li>
+            <li>You can find them here in the menu:</li>
+            <li>
+              <img src="img/GameSelectionMenu.png"></img>
+            </li>
+          </ul>
+        </section>
+        <br>
+        <section>
+          <div class="label -s -blue">BUGFIX</div>
+          <ul>
+            <li>Fixed multiple bugs regarding file-handling and Patch/Mod-detection</li>
+          </ul>
+        </section>
+        <br>
+        <section>
+          <div class="label -s -red">INFORMATION</div>
+          <ul>
+            <li>Please dont hesitate to provide bug-reports as video/screenshots and via logs.</li>
+            <li>You can find the logfiles here:</li>
+            <li>
+              <img src="img/LauncherLogsMenu.png"></img>
+            </li>
+          </ul>
+        </section>
+        <br>
+      </section>
+    </article>
+
+    <br>
 
     <article class="changelog">
       <section class="version -planned">
@@ -53,8 +97,8 @@
             <li>Added new patch 2.22v35</li>
             <li>Complete overhaul of the Backend-Code to support future patches and mods more easily.</li>
             <li><br></li>
-            <li>Preparations for releasing &nbsp; <b>Battle for Middle-Earth&trade; II</b> &nbsp; and &nbsp; <b>Battle for Middle-Earth&trade; II - The Rise of the Witch-King&trade;</b></li>
-            <li>Estimated Release-Date goal: &nbsp;<b>11.08.2023</b></li>
+            <li>Preparations for releasing &nbsp; <b>Battle for Middle-Earth&trade; II</b> &nbsp; and &nbsp; <b>Battle
+                for Middle-Earth&trade; II - The Rise of the Witch-King&trade;</b></li>
           </ul>
         </section>
         <section>
@@ -101,7 +145,7 @@
     </article>
 
     <br>
-    
+
     <article class="changelog">
       <section class="version -planned">
         <div class="header">
@@ -112,9 +156,11 @@
           <div class="label -s -red">HOTFIX 2</div>
           <ul>
             <li>Fixed multiple issues regarding patch 2.22v33 download and installing the game</li>
-            <li>Reverted the program state from "framework depended" to "self contained" again, eliminating some startup-errors</li>
+            <li>Reverted the program state from "framework depended" to "self contained" again, eliminating some
+              startup-errors</li>
             <li>Made even more possibilites for logging while starting and downloading</li>
-            <li>In one occasion the launcher would directly crash on startup because he did not find the correct game language</li>
+            <li>In one occasion the launcher would directly crash on startup because he did not find the correct game
+              language</li>
           </ul>
         </section>
         <br>
@@ -192,11 +238,15 @@
             <li>Launcher now self-restarts after prompt, if some specific settings are changed</li>
             <li><br></li>
             <li>Sadly, we needed to disable the "repair"-functionality for the moment due to multi-language support</li>
-            <li>If you need to repair the game, you can join us on &nbsp;<a href="https://discord.gg/Q5Yyy3XCuu" target="_blank">Discord</a>&nbsp; to get help and info about how-to</li>
+            <li>If you need to repair the game, you can join us on &nbsp;<a href="https://discord.gg/Q5Yyy3XCuu"
+                target="_blank">Discord</a>&nbsp; to get help and info about how-to</li>
             <li><br></li>
-            <li>If you want to install the game in another language than english, you need to close the launcher and delete the game directory manually and restart the launcher</li>
-            <li>This will give you an "Install"-button, where you are able to choose, which language you want to install the game with</li>
-            <li>We will continue to improve the experience. Our vision/goal is to have the same functionality like steam</li>
+            <li>If you want to install the game in another language than english, you need to close the launcher and
+              delete the game directory manually and restart the launcher</li>
+            <li>This will give you an "Install"-button, where you are able to choose, which language you want to install
+              the game with</li>
+            <li>We will continue to improve the experience. Our vision/goal is to have the same functionality like steam
+            </li>
             <li><br></li>
             <li>Yes, there are so many changes, that we skipped Launcher Version 1.0.1.17</li>
         </section>
@@ -215,7 +265,9 @@
             <li>
               <img src="img/LanguageSupport.png"></img>
             </li>
-            <li><p style="color: red">PLEASE BE AWARE, THAT THE PATCH 2.22 ONLY SUPPORTS ENGLISH AND GERMAN SO FAR!</p></li>
+            <li>
+              <p style="color: red">PLEASE BE AWARE, THAT THE PATCH 2.22 ONLY SUPPORTS ENGLISH AND GERMAN SO FAR!</p>
+            </li>
             <li>This list is about the patches 1.03 and 1.06! If you install 2.22 you keep the voice language,</li>
             <li>but the Interface switches to english or german only!</li>
           </ul>
@@ -288,7 +340,8 @@
         <section>
           <div class="label -s -bg" style="background: indigo;">FEATURES</div>
           <ul>
-            <li>Added a small repair functionality to the Launcher, in case the game is not starting, or downloaded files are producing errors.</li>
+            <li>Added a small repair functionality to the Launcher, in case the game is not starting, or downloaded
+              files are producing errors.</li>
             <li>Added Patch 2.22 V 3.2 Beta 1 to Beta-Channel.</li>
           </ul>
         </section>
@@ -297,7 +350,8 @@
           <div class="label -s -bg -blue">BUGFIX</div>
           <ul>
             <li>Fixed an Issue, where the Launcher is always installing a Patch after each start.</li>
-            <li>Fixed an Issue, where the Launcher is installing Patch 3.0 after installing the game instead of Patch 3.1.</li>
+            <li>Fixed an Issue, where the Launcher is installing Patch 3.0 after installing the game instead of Patch
+              3.1.</li>
             <li>Fixed an Issue, where the Launcher was not able to retrieve the newest Beta files.</li>
             <li>Fixed an Issue, where the Launcher destroyed a Beta-File while downloading.</li>
           </ul>
@@ -374,8 +428,10 @@
         <section>
           <div class="label -s -bg" style="background: indigo;">FEATURES</div>
           <ul>
-            <li>New Beta-Channel for Patch 2.22 is now available! To use it, just go to launcher-options and activate it. After each change you need to restart the launcher manually!</li>
-            <li>If you want to return to the official released patches, deactivate the option and restart the launcher!</li>
+            <li>New Beta-Channel for Patch 2.22 is now available! To use it, just go to launcher-options and activate
+              it. After each change you need to restart the launcher manually!</li>
+            <li>If you want to return to the official released patches, deactivate the option and restart the launcher!
+            </li>
           </ul>
         </section>
         <br>
@@ -410,12 +466,14 @@
         <section>
           <div class="label -s -blue">BUGFIX</div>
           <ul>
-            <li>Fixed multiple issues regarding "File-Not-Found"-Errors <b>&nbsp;(Should work with Windows 7 now!)</b></li>
+            <li>Fixed multiple issues regarding "File-Not-Found"-Errors <b>&nbsp;(Should work with Windows 7 now!)</b>
+            </li>
             <li>It is no longer possible to start multiple instances of the launcher.</li>
             <li>Fixed multiple occasions of "Access denied" and "File already in use"-Errors.</li>
             <li>Greatly improved the Code-Base for the Patch and Version selection screen.</li>
             <li>Fixed multiple "Mis-Match"- and "Wrong-Version"-Errors ingame when using the launcher.</li>
-            <li>There was still an issue regarding lost settings made in the launcher after an automatic launcher-update.</li>
+            <li>There was still an issue regarding lost settings made in the launcher after an automatic
+              launcher-update.</li>
             <li>Removed the "GameSelection"-window since it made more harm than help.</li>
             <li>After closing the game, the launcher was not maximized again.</li>
             <li>Launcher-Theme was playing after maximizing, even when the music was disabled.</li>
@@ -467,7 +525,7 @@
         <br>
       </section>
     </article>
-    
+
     <br>
 
     <article class="changelog">
@@ -492,7 +550,7 @@
         <br>
       </section>
     </article>
-        
+
     <br>
 
     <article class="changelog">
@@ -504,13 +562,15 @@
         <section>
           <div class="label -s -bg" style="background: indigo;">FEATURES</div>
           <ul>
-            <li>Added "Advanced" Button with a new menu and 3 buttons: "Appdata"-folder, "Game"-folder and "Launcher"-folder for better support.</li>
+            <li>Added "Advanced" Button with a new menu and 3 buttons: "Appdata"-folder, "Game"-folder and
+              "Launcher"-folder for better support.</li>
             <li>Added more loggings for error cases (e.g.. not downloading, stuck at downloading/extracting).</li>
             <li>Prepared Files for the German language support, inclusive patch 1.06 files.</li>
             <li>Added a mute button in the front window and removed the setting in the "options"-window.</li>
             <li>You can now see the launcher Version in "options"-window.</li>
             <li>After starting the game, the launcher doesn't close itself anymore and stays in system tray.</li>
-            <li>While launcher is minimized and/or game is started from launcher, the launcher music stops playing and resumes when you maximize again.</li>
+            <li>While launcher is minimized and/or game is started from launcher, the launcher music stops playing and
+              resumes when you maximize again.</li>
             <li>Launcher will automatically restart after Updates now.</li>
           </ul>
         </section>
@@ -524,7 +584,7 @@
         <br>
       </section>
     </article>
-      
+
     <br>
 
     <article class="changelog">
@@ -544,7 +604,7 @@
         <br>
       </section>
     </article>
-            
+
     <br>
 
     <article class="changelog">
@@ -562,7 +622,7 @@
         <br>
       </section>
     </article>
-    
+
   </div>
 
   <script>
