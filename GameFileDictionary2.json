@@ -1,19 +1,28 @@
 {
     "mainPacks": {
         "BFME1": {
-            "urls": ["https://dl.dropboxusercontent.com/s/9sn0e8w8w834ywi/BFME1.7z"],
+            "urls": [
+              "https://dl.dropboxusercontent.com/s/9sn0e8w8w834ywi/BFME1.7z", 
+              "https://yzv5rrym8ua3.objectstorage.ca-toronto-1.oci.customer-oci.com/p/n-2Cn5Ye4mhVfihK7QaKoQMfSJdUYIytrnacQcfnIw17vYBR6PLaK0S_pHOUyuzN/n/yzv5rrym8ua3/b/222/o/BFME1.7z"
+            ],
             "md5": "97258F514DCE6EB4D5D110DBB4D3CCA3",
             "filename": "BFME1.7z",
             "latestPatchVersionOfficial": 103
         },
         "BFME2": {
-            "urls": ["https://www.dropbox.com/scl/fi/vbbp1983qw9sykmpakwo6/BFME2.7z?rlkey=5qu8cstflt4vyusc08esl36gy&dl=1"],
+            "urls": [
+              "https://www.dropbox.com/scl/fi/vbbp1983qw9sykmpakwo6/BFME2.7z?rlkey=5qu8cstflt4vyusc08esl36gy&dl=1",
+              "https://objectstorage.ca-toronto-1.oraclecloud.com/p/SXcyzHyyu1Y3P1jicPogo10ptqlwhqjRxdV_7TY9kQHcorOUCdifll6rHnPJau7m/n/yzv5rrym8ua3/b/222/o/BFME2.7z"
+            ],
             "md5": "ADBEF7B60B6A7ADB50E78FDF5574678E",
             "filename": "BFME2.7z",
             "latestPatchVersionOfficial": 106
         },
         "BFME25": {
-            "urls": ["https://www.dropbox.com/scl/fi/hi93wls0t5i2i6rsctkoc/BFME25.7z?rlkey=ughvwhc7hvutsslm6fxss55qv&dl=1"],
+            "urls": [
+              "https://www.dropbox.com/scl/fi/hi93wls0t5i2i6rsctkoc/BFME25.7z?rlkey=ughvwhc7hvutsslm6fxss55qv&dl=1",
+              "https://objectstorage.ca-toronto-1.oraclecloud.com/p/QSvuIUDUJb1hp3BROob0EwtddQqyFwnDPUnEvoBK5WjEEtRlYIcULPbnyaaypQwd/n/yzv5rrym8ua3/b/222/o/BFME25.7z"
+            ],
             "md5": "35A22FE77C95B84748319608B695FB95",
             "filename": "BFME25.7z",
             "latestPatchVersionOfficial": 201
