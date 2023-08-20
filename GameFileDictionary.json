@@ -180,6 +180,7 @@
         "BFME1": [
             {
                 "urls": [
+                    "https://patch222files.s3.eu-central-2.wasabisys.com/MainGameFilesLanguagePacks/BFME1/LangPack_EN.7z?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=KUMCDGB8D0VNXOCDUATS/20230820/eu-central-2/s3/aws4_request&X-Amz-Date=20230820T005023Z&X-Amz-Expires=604798&X-Amz-Signature=6561a61244d71d1d3e5c1024d00a0a31cc24e58d62fcc5a91e02df4566943473&X-Amz-SignedHeaders=host&response-content-disposition=inline",
                     "https://patchlauncher222files.s3.fr-par.scw.cloud/MainGameLanguageFiles/BFME1/LangPack_EN.7z"
                 ],
                 "md5": "FDE15BA61BE8C1B321E13A4BA9D8C4A8",
@@ -272,6 +273,7 @@
         "BFME2": [
             {
                 "urls": [
+                    "https://patch222files.s3.eu-central-2.wasabisys.com/MainGameFilesLanguagePacks/BFME2/LangPack_EN.7z?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=KUMCDGB8D0VNXOCDUATS/20230820/eu-central-2/s3/aws4_request&X-Amz-Date=20230820T005000Z&X-Amz-Expires=604797&X-Amz-Signature=8bed8cbafff87620654e4460d2e2aaee7e58742275dea57d76cf18344f8a0d2e&X-Amz-SignedHeaders=host&response-content-disposition=inline",
                     "https://patchlauncher222files.s3.fr-par.scw.cloud/MainGameLanguageFiles/BFME2/LangPack_EN.7z"
                 ],
                 "md5": "F6F129322F7D43ECD49A49A3B0B51EC2",
@@ -324,6 +326,7 @@
         "BFME25": [
             {
                 "urls": [
+                    "https://patch222files.s3.eu-central-2.wasabisys.com/MainGameFilesLanguagePacks/BFME25/LangPack_EN.7z?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=KUMCDGB8D0VNXOCDUATS/20230820/eu-central-2/s3/aws4_request&X-Amz-Date=20230820T004934Z&X-Amz-Expires=604798&X-Amz-Signature=c9b2bc86685370dbd98863ec3167f9a24fbfc2eb4bcc21c53a92b3621de96a7a&X-Amz-SignedHeaders=host&response-content-disposition=inline",
                     "https://patchlauncher222files.s3.fr-par.scw.cloud/MainGameLanguageFiles/BFME25/LangPack_EN.7z"
                 ],
                 "md5": "9BDBF54A65BA409789EEF39EDF3D4DF0",
