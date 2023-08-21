@@ -46,13 +46,47 @@
     <article class="changelog">
       <section class="version -planned">
         <div class="header">
+          <h2 class="version-num">Launcher Update 1.0.5.4</h2>
+          <time class="datetime" datetime="08-12-2023">15.08.2023</time>
+        </div>
+        <section>
+          <div class="label -s -bg" style="background: indigo;">FEATURES</div>
+          <ul>
+            <li>Added some more logs for options.ini file handling</li>
+            <li>Added some more logs for Restarter-logic</li>
+            <li>Added some custom request-configuration parameters</li>
+            <li>Added multiple error handlings while trying to launch the game or a third party tool</li>
+          </ul>
+        </section>
+        <br>
+        <section>
+          <div class="label -s -blue">Bugfix</div>
+          <ul>
+            <li>When canceling the installation dialog via "X", the launcher did not return to the correct state</li>
+            <li>Removed some code, where the launcher was doing some specific gui task twice as much</li>
+            <li>fixed a potential loop-hole while checking for files</li>
+            <li>Greatly increased download speed for internet connections >= 250 Mbit/s</li>
+            <li>Improved positioning of labels and GUI elements</li>
+            <li>Game shortcuts for start menu did not get properly deleted</li>
+            <li>Fixed a bug, where it was not possible to download the newest 2.22 beta files</li>
+          </ul>
+        </section>
+        <br>
+      </section>
+    </article>
+
+    <br>
+
+    <article class="changelog">
+      <section class="version -planned">
+        <div class="header">
           <h2 class="version-num">Launcher Update 1.0.5.3</h2>
           <time class="datetime" datetime="08-12-2023">15.08.2023</time>
         </div>
         <section>
           <div class="label -s -red">HOTFIX 3</div>
           <ul>
-            <li>Fixed an issue, where the launcher deleted 1.09 files.</li>
+            <li>Fixed an issue, where the launcher deleted 1.09 files</li>
             <li><br></li>
             <li><b>IF YOU ARE FACING PROBLEMS WITH PATCH 1.09:</b></li>
             <li>1. Uninstall the Programm "BFME2 Patch Switcher" via Programs and Features from Windows</li>
