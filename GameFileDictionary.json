@@ -160,10 +160,10 @@
             "majorVersion": 222,
             "minorVersion": 36,
             "urls": [
-                "https://patchlauncher222files.s3.fr-par.scw.cloud/222BetaFiles/Patch222v36_BETA_1.7z"
+                "https://patchlauncher222files.s3.fr-par.scw.cloud/222BetaFiles/Patch222v36_BETA_2.7z"
             ],
-            "md5": "87CE72CE555C83185B281A31332D3281",
-            "filename": "Patch222v36_BETA_1.7z"
+            "md5": "44F9C8B142F2B3AF8D4EADA9DEA0FA6C",
+            "filename": "Patch222v36_BETA_2.7z"
         },
         "BFME2": {
             "version": 0,
