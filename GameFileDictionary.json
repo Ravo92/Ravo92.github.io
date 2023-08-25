@@ -2,7 +2,7 @@
     "mainPacks": {
         "BFME1": {
             "urls": [
-                "https://patch222files.s3.eu-central-2.wasabisys.com/MainGameFiles/BFME1.7z?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=KUMCDGB8D0VNXOCDUATS/20230819/eu-central-2/s3/aws4_request&X-Amz-Date=20230819T180903Z&X-Amz-Expires=604797&X-Amz-Signature=2e455216d3a084f534651659507ec78345b1bcbfde1c2e9ae4c2533f7592a4a7&X-Amz-SignedHeaders=host&response-content-disposition=inline",
+                "https://patch222files.s3.eu-central-2.wasabisys.com/MainGameFiles/BFME1.7z?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=KUMCDGB8D0VNXOCDUATS/20230825/eu-central-2/s3/aws4_request&X-Amz-Date=20230825T135425Z&X-Amz-Expires=604789&X-Amz-Signature=e74f09fa739b756fd063570b85f16c5d504a4eb5eb41f94055b72648350c71ed&X-Amz-SignedHeaders=host&response-content-disposition=inline",
                 "https://patchlauncher222files.s3.fr-par.scw.cloud/MainGameFiles/BFME1.7z"
             ],
             "md5": "97258F514DCE6EB4D5D110DBB4D3CCA3",
@@ -11,7 +11,7 @@
         },
         "BFME2": {
             "urls": [
-                "https://patch222files.s3.eu-central-2.wasabisys.com/MainGameFiles/BFME2.7z?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=KUMCDGB8D0VNXOCDUATS/20230819/eu-central-2/s3/aws4_request&X-Amz-Date=20230819T180924Z&X-Amz-Expires=604795&X-Amz-Signature=0ff125f7da3530cba2da62e575fa5d4546c4a8b65ef1bf61ce1aac4b75158fc0&X-Amz-SignedHeaders=host&response-content-disposition=inline",
+                "https://patch222files.s3.eu-central-2.wasabisys.com/MainGameFiles/BFME2.7z?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=KUMCDGB8D0VNXOCDUATS/20230825/eu-central-2/s3/aws4_request&X-Amz-Date=20230825T135437Z&X-Amz-Expires=604797&X-Amz-Signature=55294936d0e098819ead39031cc25bff79d002090951c8047d350a9a71b1f671&X-Amz-SignedHeaders=host&response-content-disposition=inline",
                 "https://patchlauncher222files.s3.fr-par.scw.cloud/MainGameFiles/BFME2.7z"
             ],
             "md5": "ADBEF7B60B6A7ADB50E78FDF5574678E",
@@ -20,7 +20,7 @@
         },
         "BFME25": {
             "urls": [
-                "https://patch222files.s3.eu-central-2.wasabisys.com/MainGameFiles/BFME25.7z?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=KUMCDGB8D0VNXOCDUATS/20230819/eu-central-2/s3/aws4_request&X-Amz-Date=20230819T180952Z&X-Amz-Expires=604792&X-Amz-Signature=636d6deadc48376b3aeb710abd3227c2ad4222162b71074bc38219ce62b908eb&X-Amz-SignedHeaders=host&response-content-disposition=inline",
+                "https://patch222files.s3.eu-central-2.wasabisys.com/MainGameFiles/BFME25.7z?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=KUMCDGB8D0VNXOCDUATS/20230825/eu-central-2/s3/aws4_request&X-Amz-Date=20230825T135450Z&X-Amz-Expires=604798&X-Amz-Signature=7d2b99f099abb710102174e953d66a5fee251e7fb759a3b1076fa19150ac5cda&X-Amz-SignedHeaders=host&response-content-disposition=inline",
                 "https://patchlauncher222files.s3.fr-par.scw.cloud/MainGameFiles/BFME25.7z"
             ],
             "md5": "35A22FE77C95B84748319608B695FB95",
@@ -180,7 +180,7 @@
         "BFME1": [
             {
                 "urls": [
-                    "https://patch222files.s3.eu-central-2.wasabisys.com/MainGameFilesLanguagePacks/BFME1/LangPack_EN.7z?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=KUMCDGB8D0VNXOCDUATS/20230820/eu-central-2/s3/aws4_request&X-Amz-Date=20230820T005023Z&X-Amz-Expires=604798&X-Amz-Signature=6561a61244d71d1d3e5c1024d00a0a31cc24e58d62fcc5a91e02df4566943473&X-Amz-SignedHeaders=host&response-content-disposition=inline",
+                    "https://patch222files.s3.eu-central-2.wasabisys.com/MainGameFilesLanguagePacks/BFME1/LangPack_EN.7z?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=KUMCDGB8D0VNXOCDUATS/20230825/eu-central-2/s3/aws4_request&X-Amz-Date=20230825T135516Z&X-Amz-Expires=604797&X-Amz-Signature=5689d454dbb819a3c93066110dbd60e53a4ca0c283c6016ff468f690fea824e5&X-Amz-SignedHeaders=host&response-content-disposition=inline",
                     "https://patchlauncher222files.s3.fr-par.scw.cloud/MainGameLanguageFiles/BFME1/LangPack_EN.7z"
                 ],
                 "md5": "FDE15BA61BE8C1B321E13A4BA9D8C4A8",
@@ -273,7 +273,7 @@
         "BFME2": [
             {
                 "urls": [
-                    "https://patch222files.s3.eu-central-2.wasabisys.com/MainGameFilesLanguagePacks/BFME2/LangPack_EN.7z?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=KUMCDGB8D0VNXOCDUATS/20230820/eu-central-2/s3/aws4_request&X-Amz-Date=20230820T005000Z&X-Amz-Expires=604797&X-Amz-Signature=8bed8cbafff87620654e4460d2e2aaee7e58742275dea57d76cf18344f8a0d2e&X-Amz-SignedHeaders=host&response-content-disposition=inline",
+                    "https://patch222files.s3.eu-central-2.wasabisys.com/MainGameFilesLanguagePacks/BFME2/LangPack_EN.7z?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=KUMCDGB8D0VNXOCDUATS/20230825/eu-central-2/s3/aws4_request&X-Amz-Date=20230825T135536Z&X-Amz-Expires=604797&X-Amz-Signature=0872cd80095ef57141f2fd1ab276781d6c23c1643b1a32178dd9621ad65c6f53&X-Amz-SignedHeaders=host&response-content-disposition=inline",
                     "https://patchlauncher222files.s3.fr-par.scw.cloud/MainGameLanguageFiles/BFME2/LangPack_EN.7z"
                 ],
                 "md5": "F6F129322F7D43ECD49A49A3B0B51EC2",
@@ -326,7 +326,7 @@
         "BFME25": [
             {
                 "urls": [
-                    "https://patch222files.s3.eu-central-2.wasabisys.com/MainGameFilesLanguagePacks/BFME25/LangPack_EN.7z?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=KUMCDGB8D0VNXOCDUATS/20230820/eu-central-2/s3/aws4_request&X-Amz-Date=20230820T004934Z&X-Amz-Expires=604798&X-Amz-Signature=c9b2bc86685370dbd98863ec3167f9a24fbfc2eb4bcc21c53a92b3621de96a7a&X-Amz-SignedHeaders=host&response-content-disposition=inline",
+                    "https://patch222files.s3.eu-central-2.wasabisys.com/MainGameFilesLanguagePacks/BFME25/LangPack_EN.7z?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=KUMCDGB8D0VNXOCDUATS/20230825/eu-central-2/s3/aws4_request&X-Amz-Date=20230825T135552Z&X-Amz-Expires=604798&X-Amz-Signature=d9eb1628812ce36983e0afbe19825193839b85cd35904c915ddbf0706968d660&X-Amz-SignedHeaders=host&response-content-disposition=inline",
                     "https://patchlauncher222files.s3.fr-par.scw.cloud/MainGameLanguageFiles/BFME25/LangPack_EN.7z"
                 ],
                 "md5": "9BDBF54A65BA409789EEF39EDF3D4DF0",
