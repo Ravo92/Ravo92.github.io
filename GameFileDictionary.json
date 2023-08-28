@@ -2,8 +2,7 @@
     "mainPacks": {
         "BFME1": {
             "urls": [
-                "https://patch222files.s3.eu-central-2.wasabisys.com/MainGameFiles/BFME1.7z?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=KUMCDGB8D0VNXOCDUATS/20230825/eu-central-2/s3/aws4_request&X-Amz-Date=20230825T135425Z&X-Amz-Expires=604789&X-Amz-Signature=e74f09fa739b756fd063570b85f16c5d504a4eb5eb41f94055b72648350c71ed&X-Amz-SignedHeaders=host&response-content-disposition=inline",
-                "https://patchlauncher222files.s3.fr-par.scw.cloud/MainGameFiles/BFME1.7z"
+                "https://bfmelauncherfiles.ravonator.at/MainGameFiles/BFME1/BFME1.7z"
             ],
             "md5": "97258F514DCE6EB4D5D110DBB4D3CCA3",
             "filename": "BFME1.7z",
@@ -11,8 +10,7 @@
         },
         "BFME2": {
             "urls": [
-                "https://patch222files.s3.eu-central-2.wasabisys.com/MainGameFiles/BFME2.7z?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=KUMCDGB8D0VNXOCDUATS/20230825/eu-central-2/s3/aws4_request&X-Amz-Date=20230825T135437Z&X-Amz-Expires=604797&X-Amz-Signature=55294936d0e098819ead39031cc25bff79d002090951c8047d350a9a71b1f671&X-Amz-SignedHeaders=host&response-content-disposition=inline",
-                "https://patchlauncher222files.s3.fr-par.scw.cloud/MainGameFiles/BFME2.7z"
+                "https://bfmelauncherfiles.ravonator.at/MainGameFiles/BFME2/BFME2.7z"
             ],
             "md5": "ADBEF7B60B6A7ADB50E78FDF5574678E",
             "filename": "BFME2.7z",
@@ -20,8 +18,7 @@
         },
         "BFME25": {
             "urls": [
-                "https://patch222files.s3.eu-central-2.wasabisys.com/MainGameFiles/BFME25.7z?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=KUMCDGB8D0VNXOCDUATS/20230825/eu-central-2/s3/aws4_request&X-Amz-Date=20230825T135450Z&X-Amz-Expires=604798&X-Amz-Signature=7d2b99f099abb710102174e953d66a5fee251e7fb759a3b1076fa19150ac5cda&X-Amz-SignedHeaders=host&response-content-disposition=inline",
-                "https://patchlauncher222files.s3.fr-par.scw.cloud/MainGameFiles/BFME25.7z"
+                "https://bfmelauncherfiles.ravonator.at/MainGameFiles/BFME25/BFME25.7z"
             ],
             "md5": "35A22FE77C95B84748319608B695FB95",
             "filename": "BFME25.7z",
@@ -33,56 +30,56 @@
             {
                 "version": 106,
                 "urls": [
-                    "https://patchlauncher222files.s3.fr-par.scw.cloud/222patches/Patch_1.06.7z"
+                    "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch106Files/Patch106.7z"
                 ],
                 "md5": "F99C89B244BFBF1FBA8602D24264E4DC",
-                "filename": "Patch_1.06.7z",
+                "filename": "Patch106.7z",
                 "languageFiles": {
                     "fr_fr": {
                         "urls": [
-                            "https://patchlauncher222files.s3.fr-par.scw.cloud/106LanguageFiles/_frenchpatch106.big"
+                            "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch106LanguageFiles/_frenchpatch106.big"
                         ],
                         "md5": "D1C2DE8663AED2542EC5DD8729F20958",
                         "filename": "_frenchpatch106.big"
                     },
                     "de": {
                         "urls": [
-                            "https://patchlauncher222files.s3.fr-par.scw.cloud/106LanguageFiles/_germanpatch106.big"
+                            "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch106LanguageFiles/_germanpatch106.big"
                         ],
                         "md5": "6B46457BE9A289457B9FEF09502D4638",
                         "filename": "_germanpatch106.big"
                     },
                     "it": {
                         "urls": [
-                            "https://patchlauncher222files.s3.fr-par.scw.cloud/106LanguageFiles/_italianpatch106.big"
+                            "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch106LanguageFiles/_italianpatch106.big"
                         ],
                         "md5": "E0401D44B2AAECC8897D6713F25B8D15",
                         "filename": "_italianpatch106.big"
                     },
                     "es": {
                         "urls": [
-                            "https://patchlauncher222files.s3.fr-par.scw.cloud/106LanguageFiles/_spanishpatch106.big"
+                            "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch106LanguageFiles/_spanishpatch106.big"
                         ],
                         "md5": "2BC4ADEC9F795DA7493DF44F62C67B4E",
                         "filename": "_spanishpatch106.big"
                     },
                     "nl": {
                         "urls": [
-                            "https://patchlauncher222files.s3.fr-par.scw.cloud/106LanguageFiles/_dutchpatch106.big"
+                            "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch106LanguageFiles/_dutchpatch106.big"
                         ],
                         "md5": "D1C2DE8663AED2542EC5DD8729F20958",
                         "filename": "_dutchpatch106.big"
                     },
                     "pl": {
                         "urls": [
-                            "https://patchlauncher222files.s3.fr-par.scw.cloud/106LanguageFiles/_polishpatch106.big"
+                            "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch106LanguageFiles/_polishpatch106.big"
                         ],
                         "md5": "A3F38F46E74EE9BFC93145F52C8988D6",
                         "filename": "_polishpatch106.big"
                     },
                     "no": {
                         "urls": [
-                            "https://patchlauncher222files.s3.fr-par.scw.cloud/106LanguageFiles/_norwegianpatch106.big"
+                            "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch106LanguageFiles/_norwegianpatch106.big"
                         ],
                         "md5": "9FD087C33D6FB805F30CFB93A155B457",
                         "filename": "_norwegianpatch106.big"
@@ -90,26 +87,96 @@
                 }
             },
             {
+                "version": 22226,
+                "urls": [
+                    "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222Files/Patch222v26.7z"
+                ],
+                "md5": "0F5EC62B0B72CFC7688FE9D1CC9715FB",
+                "filename": "Patch222v26.7z",
+                "languageFiles": {
+                }
+            },
+            {
+                "version": 22227,
+                "urls": [
+                    "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222Files/Patch222v27.7z"
+                ],
+                "md5": "FC1F1BE654989E5C12901D95F6F18DD0",
+                "filename": "Patch222v27.7z",
+                "languageFiles": {
+                }
+            },
+            {
+                "version": 22228,
+                "urls": [
+                    "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222Files/Patch222v28.7z"
+                ],
+                "md5": "878C700490627A560E1F41948859C1AA",
+                "filename": "Patch222v28.7z",
+                "languageFiles": {
+                }
+            },
+            {
+                "version": 22229,
+                "urls": [
+                    "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222Files/Patch222v29.7z"
+                ],
+                "md5": "0E6B1E0AE115984715B0F0D15D212C06",
+                "filename": "Patch222v29.7z",
+                "languageFiles": {
+                }
+            },
+            {
+                "version": 22230,
+                "urls": [
+                    "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222Files/Patch222v30.7z"
+                ],
+                "md5": "FBB8967192B666CCA1E97F4E06D2D6B0",
+                "filename": "Patch222v30.7z",
+                "languageFiles": {
+                }
+            },
+            {
+                "version": 22231,
+                "urls": [
+                    "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222Files/Patch222v31.7z"
+                ],
+                "md5": "76B0BDF5AE584169FDEA257E1F89BADC",
+                "filename": "Patch222v31.7z",
+                "languageFiles": {
+                }
+            },
+            {
+                "version": 22232,
+                "urls": [
+                    "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222Files/Patch222v32.7z"
+                ],
+                "md5": "BC0FE6B8FA5209F7B5191E60ED4D00AF",
+                "filename": "Patch222v32.7z",
+                "languageFiles": {
+                }
+            },
+            {
                 "version": 22233,
                 "urls": [
-                    "https://patchlauncher222files.s3.fr-par.scw.cloud/222patches/Patch_2.22v33.7z"
+                    "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222Files/Patch222v33.7z"
                 ],
                 "md5": "B85D57102959EB9D4BFDB3547E150E73",
-                "filename": "Patch_2.22v33.7z",
+                "filename": "Patch222v33.7z",
                 "languageFiles": {
                 }
             },
             {
                 "version": 22234,
                 "urls": [
-                    "https://patchlauncher222files.s3.fr-par.scw.cloud/222patches/Patch_2.22v34.7z"
+                    "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222Files/Patch222v34.7z"
                 ],
                 "md5": "86C013665AF7982300E09B3265B1E512",
-                "filename": "Patch_2.22v34.7z",
+                "filename": "Patch222v34.7z",
                 "languageFiles": {
                     "de": {
                         "urls": [
-                            "https://patchlauncher222files.s3.fr-par.scw.cloud/222LanguageFiles/_germanpatch22234.big"
+                            "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222LanguageFiles/_germanpatch22234.big"
                         ],
                         "md5": "32C22D2FACA51672EB09BD8612F4C08A",
                         "filename": "_patch222german.big"
@@ -119,14 +186,14 @@
             {
                 "version": 22235,
                 "urls": [
-                    "https://patchlauncher222files.s3.fr-par.scw.cloud/222patches/Patch_2.22v35.7z"
+                    "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222Files/Patch222v35.7z"
                 ],
                 "md5": "3FEA24A4667453A190C69BC5AC416040",
-                "filename": "Patch_2.22v35.7z",
+                "filename": "Patch222v35.7z",
                 "languageFiles": {
                     "de": {
                         "urls": [
-                            "https://patchlauncher222files.s3.fr-par.scw.cloud/222LanguageFiles/_germanpatch22235.big"
+                            "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222LanguageFiles/_germanpatch22235.big"
                         ],
                         "md5": "B32C436DF8C816C280F040FA46E5CD71",
                         "filename": "_patch222german.big"
@@ -138,10 +205,10 @@
             {
                 "version": 109,
                 "urls": [
-                    "https://patchlauncher222files.s3.fr-par.scw.cloud/ExternalPatchesAndMods/BFME2/Patch109/PatchSwitcherInstaller109.rar"
+                    "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME2/PatchSwitcherInstaller109.rar"
                 ],
                 "md5": "2D90385DA6D076BF00C430FA2A079F96",
-                "filename": "Patch_1.09.rar",
+                "filename": "Patch109.rar",
                 "hasExternalInstaller": true,
                 "externalInstallerHasLaunchAbility": false,
                 "registryPathForInstalledProgram": "SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\BFME2 Patch Switcher",
@@ -160,9 +227,9 @@
             "majorVersion": 222,
             "minorVersion": 36,
             "urls": [
-                "https://patchlauncher222files.s3.fr-par.scw.cloud/222BetaFiles/Patch222v36_BETA_3.7z"
+                "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222BetaFiles/Patch222v36_BETA_3.7z"
             ],
-            "md5": "44F9C8B142F2B3AF8D4EADA9DEA0FA6C",
+            "md5": "9B9E98FB4C0D18F7CA5063F2AAC37115",
             "filename": "Patch222v36_BETA_3.7z"
         },
         "BFME2": {
@@ -180,8 +247,7 @@
         "BFME1": [
             {
                 "urls": [
-                    "https://patch222files.s3.eu-central-2.wasabisys.com/MainGameFilesLanguagePacks/BFME1/LangPack_EN.7z?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=KUMCDGB8D0VNXOCDUATS/20230825/eu-central-2/s3/aws4_request&X-Amz-Date=20230825T135516Z&X-Amz-Expires=604797&X-Amz-Signature=5689d454dbb819a3c93066110dbd60e53a4ca0c283c6016ff468f690fea824e5&X-Amz-SignedHeaders=host&response-content-disposition=inline",
-                    "https://patchlauncher222files.s3.fr-par.scw.cloud/MainGameLanguageFiles/BFME1/LangPack_EN.7z"
+                    "https://bfmelauncherfiles.ravonator.at/MainGameFiles/BFME1/LangPack_EN.7z"
                 ],
                 "md5": "FDE15BA61BE8C1B321E13A4BA9D8C4A8",
                 "RegistrySelectedLanguageName": "English US",
@@ -191,7 +257,7 @@
             },
             {
                 "urls": [
-                    "https://patchlauncher222files.s3.fr-par.scw.cloud/MainGameLanguageFiles/BFME1/LangPack_FR.7z"
+                    "https://bfmelauncherfiles.ravonator.at/MainGameFiles/BFME1/LangPack_FR.7z"
                 ],
                 "md5": "5D2985454875068484066406AA7CC541",
                 "RegistrySelectedLanguageName": "French",
@@ -201,7 +267,7 @@
             },
             {
                 "urls": [
-                    "https://patchlauncher222files.s3.fr-par.scw.cloud/MainGameLanguageFiles/BFME1/LangPack_DE.7z"
+                    "https://bfmelauncherfiles.ravonator.at/MainGameFiles/BFME1/LangPack_DE.7z"
                 ],
                 "md5": "7E52789D5E415013574EE8763502E80D",
                 "RegistrySelectedLanguageName": "German",
@@ -211,7 +277,7 @@
             },
             {
                 "urls": [
-                    "https://patchlauncher222files.s3.fr-par.scw.cloud/MainGameLanguageFiles/BFME1/LangPack_IT.7z"
+                    "https://bfmelauncherfiles.ravonator.at/MainGameFiles/BFME1/LangPack_IT.7z"
                 ],
                 "md5": "73ECCA23850069BBA2C8CE1D15EC94B0",
                 "RegistrySelectedLanguageName": "Italian",
@@ -221,7 +287,7 @@
             },
             {
                 "urls": [
-                    "https://patchlauncher222files.s3.fr-par.scw.cloud/MainGameLanguageFiles/BFME1/LangPack_ES.7z"
+                    "https://bfmelauncherfiles.ravonator.at/MainGameFiles/BFME1/LangPack_ES.7z"
                 ],
                 "md5": "3B09ACECCAF138A531A7925AA6AAB436",
                 "RegistrySelectedLanguageName": "Spanish",
@@ -231,7 +297,7 @@
             },
             {
                 "urls": [
-                    "https://patchlauncher222files.s3.fr-par.scw.cloud/MainGameLanguageFiles/BFME1/LangPack_SV.7z"
+                    "https://bfmelauncherfiles.ravonator.at/MainGameFiles/BFME1/LangPack_SV.7z"
                 ],
                 "md5": "7C4563C7FAFD94DDAB50151F974CB3B0",
                 "RegistrySelectedLanguageName": "Swedish",
@@ -241,7 +307,7 @@
             },
             {
                 "urls": [
-                    "https://patchlauncher222files.s3.fr-par.scw.cloud/MainGameLanguageFiles/BFME1/LangPack_NL.7z"
+                    "https://bfmelauncherfiles.ravonator.at/MainGameFiles/BFME1/LangPack_NL.7z"
                 ],
                 "md5": "2B64335C8A439B68F57AAC96A5CDD31D",
                 "RegistrySelectedLanguageName": "Dutch",
@@ -251,7 +317,7 @@
             },
             {
                 "urls": [
-                    "https://patchlauncher222files.s3.fr-par.scw.cloud/MainGameLanguageFiles/BFME1/LangPack_PL.7z"
+                    "https://bfmelauncherfiles.ravonator.at/MainGameFiles/BFME1/LangPack_PL.7z"
                 ],
                 "md5": "57530ADBB2BF5A041B062EA97291FFF5",
                 "RegistrySelectedLanguageName": "Polish",
@@ -261,7 +327,7 @@
             },
             {
                 "urls": [
-                    "https://patchlauncher222files.s3.fr-par.scw.cloud/MainGameLanguageFiles/BFME1/LangPack_NO.7z"
+                    "https://bfmelauncherfiles.ravonator.at/MainGameFiles/BFME1/LangPack_NO.7z"
                 ],
                 "md5": "25BDB640F74BC58BD4D0CE23E0233A60",
                 "RegistrySelectedLanguageName": "Norwegian",
@@ -273,8 +339,7 @@
         "BFME2": [
             {
                 "urls": [
-                    "https://patch222files.s3.eu-central-2.wasabisys.com/MainGameFilesLanguagePacks/BFME2/LangPack_EN.7z?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=KUMCDGB8D0VNXOCDUATS/20230825/eu-central-2/s3/aws4_request&X-Amz-Date=20230825T135536Z&X-Amz-Expires=604797&X-Amz-Signature=0872cd80095ef57141f2fd1ab276781d6c23c1643b1a32178dd9621ad65c6f53&X-Amz-SignedHeaders=host&response-content-disposition=inline",
-                    "https://patchlauncher222files.s3.fr-par.scw.cloud/MainGameLanguageFiles/BFME2/LangPack_EN.7z"
+                    "https://bfmelauncherfiles.ravonator.at/MainGameFiles/BFME2/LangPack_EN.7z"
                 ],
                 "md5": "F6F129322F7D43ECD49A49A3B0B51EC2",
                 "RegistrySelectedLanguageName": "English UK",
@@ -284,7 +349,7 @@
             },
             {
                 "urls": [
-                    "https://patchlauncher222files.s3.fr-par.scw.cloud/MainGameLanguageFiles/BFME2/LangPack_FR.7z"
+                    "https://bfmelauncherfiles.ravonator.at/MainGameFiles/BFME2/LangPack_FR.7z"
                 ],
                 "md5": "0A4EEA8B342EB9816F95EFA0918CA8DE",
                 "RegistrySelectedLanguageName": "French",
@@ -294,7 +359,7 @@
             },
             {
                 "urls": [
-                    "https://patchlauncher222files.s3.fr-par.scw.cloud/MainGameLanguageFiles/BFME2/LangPack_DE.7z"
+                    "https://bfmelauncherfiles.ravonator.at/MainGameFiles/BFME2/LangPack_DE.7z"
                 ],
                 "md5": "094E59D937634013A7B4E9C611BAFBE4",
                 "RegistrySelectedLanguageName": "German",
@@ -304,7 +369,7 @@
             },
             {
                 "urls": [
-                    "https://patchlauncher222files.s3.fr-par.scw.cloud/MainGameLanguageFiles/BFME2/LangPack_IT.7z"
+                    "https://bfmelauncherfiles.ravonator.at/MainGameFiles/BFME2/LangPack_IT.7z"
                 ],
                 "md5": "73ECCA23850069BBA2C8CE1D15EC94B0",
                 "RegistrySelectedLanguageName": "Italian",
@@ -314,7 +379,7 @@
             },
             {
                 "urls": [
-                    "https://patchlauncher222files.s3.fr-par.scw.cloud/MainGameLanguageFiles/BFME2/LangPack_ES.7z"
+                    "https://bfmelauncherfiles.ravonator.at/MainGameFiles/BFME2/LangPack_ES.7z"
                 ],
                 "md5": "311441FB4F2008EF374AA11C7AFA861E",
                 "RegistrySelectedLanguageName": "Spanish",
@@ -326,8 +391,7 @@
         "BFME25": [
             {
                 "urls": [
-                    "https://patch222files.s3.eu-central-2.wasabisys.com/MainGameFilesLanguagePacks/BFME25/LangPack_EN.7z?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=KUMCDGB8D0VNXOCDUATS/20230825/eu-central-2/s3/aws4_request&X-Amz-Date=20230825T135552Z&X-Amz-Expires=604798&X-Amz-Signature=d9eb1628812ce36983e0afbe19825193839b85cd35904c915ddbf0706968d660&X-Amz-SignedHeaders=host&response-content-disposition=inline",
-                    "https://patchlauncher222files.s3.fr-par.scw.cloud/MainGameLanguageFiles/BFME25/LangPack_EN.7z"
+                    "https://bfmelauncherfiles.ravonator.at/MainGameFiles/BFME25/LangPack_EN.7z"
                 ],
                 "md5": "9BDBF54A65BA409789EEF39EDF3D4DF0",
                 "RegistrySelectedLanguageName": "English UK",
@@ -337,7 +401,7 @@
             },
             {
                 "urls": [
-                    "https://patchlauncher222files.s3.fr-par.scw.cloud/MainGameLanguageFiles/BFME25/LangPack_FR.7z"
+                    "https://bfmelauncherfiles.ravonator.at/MainGameFiles/BFME25/LangPack_FR.7z"
                 ],
                 "md5": "A727283D265A1E95668635BE9F6DC9C7",
                 "RegistrySelectedLanguageName": "French",
@@ -347,7 +411,7 @@
             },
             {
                 "urls": [
-                    "https://patchlauncher222files.s3.fr-par.scw.cloud/MainGameLanguageFiles/BFME25/LangPack_DE.7z"
+                    "https://bfmelauncherfiles.ravonator.at/MainGameFiles/BFME25/LangPack_DE.7z"
                 ],
                 "md5": "5A7E4C67B70B28A2578DD7B6E01C1B69",
                 "RegistrySelectedLanguageName": "German",
@@ -357,7 +421,7 @@
             },
             {
                 "urls": [
-                    "https://patchlauncher222files.s3.fr-par.scw.cloud/MainGameLanguageFiles/BFME25/LangPack_IT.7z"
+                    "https://bfmelauncherfiles.ravonator.at/MainGameFiles/BFME25/LangPack_IT.7z"
                 ],
                 "md5": "AEA80FC0406175E145BCB039E805089D",
                 "RegistrySelectedLanguageName": "Italian",
@@ -367,7 +431,7 @@
             },
             {
                 "urls": [
-                    "https://patchlauncher222files.s3.fr-par.scw.cloud/MainGameLanguageFiles/BFME25/LangPack_ES.7z"
+                    "https://bfmelauncherfiles.ravonator.at/MainGameFiles/BFME25/LangPack_ES.7z"
                 ],
                 "md5": "438E51DDC633F6935EC6BD12BD389B6A",
                 "RegistrySelectedLanguageName": "Spanish",
