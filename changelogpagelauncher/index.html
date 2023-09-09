@@ -5,8 +5,9 @@
   <style>
     body {
       background-image: url('img/BGMap.png');
-      background-repeat: repeat-y;
-      background-size: 100% 15%;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: 100% 100%;
     }
   </style>
   <div id="navbar">
@@ -42,6 +43,46 @@
 
 <body>
   <div class="wrap-content">
+
+    <article class="changelog">
+      <section class="version -planned">
+        <div class="header">
+          <h2 class="version-num">Launcher Update 1.0.5.6</h2>
+          <time class="datetime" datetime="09-09-2023">09.09.2023</time>
+        </div>
+        <section>
+          <div class="label -s -bg" style="background: indigo;">FEATURES</div>
+          <ul>
+            <li>Added Ability to change language inside launcher options for&nbsp;<i>Battle for Middle-earth &trade;</i>&nbsp;II and&nbsp;<i>Rise of the Witch-King &trade;</i></li>
+            <li></li>
+            <li>Merged the Launcher-settings and the options-settings into one window</li>
+          </ul>
+        </section>
+        <section>
+          <div class="label -s -blue">Bugfix</div>
+          <ul>
+            <li>Fixed an Issue where the launcher tried to create options.ini every launch, even tho it already exists</li>
+            <li>Fixed a crash, which happened while downloading files</li>
+            <li>Improved the Installation logic for&nbsp;<i>Battle for Middle-earth &trade;</i></li>
+            <li>Fixed an Issue, where the launcher did not create or created wrong namen desktop icons</li>
+            <li>Improved the download speed, stability and rate for slower connection speeds</li>
+            <li>Prevented a crash, which could occur on launching the BFME2- or RotWk-Launcher on some occasions</li>
+            <li>Improved Memory consumption on some occasions</li>
+            <li>Fixed a bug, where disabling the Beta-Channel did not change the game Version back to latest official release of patch 2.22</li>
+            <li>Fixed an issue, where wrong names where used for logging</li>
+            <li>Fixed an issue, where the launcher settings were lost after an update</li>
+            <li></li>
+            <li style="color:red;"><b>Removed the need for x64 architecture in the setup file, which could benefit usage emulated systems like MacOS Parallels</b></li>
+            <li></li>
+            <li style="color:red;"><b>Fixed an occasion, where it was not possible to launch the multiplayer version of Patch 1.09,</b></li>
+            <li style="color:red;"><b>which resulted in OOS-Errors when trying to play online</b></li>
+          </ul>
+        </section>
+        <br>
+      </section>
+    </article>
+
+    <br>
 
     <article class="changelog">
       <section class="version -planned">
