@@ -264,6 +264,16 @@
             },
             {
                 "urls": [
+                    "https://bfmelauncherfiles.ravonator.at/MainGameFiles/BFME1/LangPack_EN.7z"
+                ],
+                "md5": "FDE15BA61BE8C1B321E13A4BA9D8C4A8",
+                "RegistrySelectedLanguageName": "English UK",
+                "RegistrySelectedLanguage": "English",
+                "RegistrySelectedLocale": "en_uk",
+                "LanguagePackName": "LangPack_EN.7z"
+            },
+            {
+                "urls": [
                     "https://bfmelauncherfiles.ravonator.at/MainGameFiles/BFME1/LangPack_FR.7z"
                 ],
                 "md5": "5D2985454875068484066406AA7CC541",
