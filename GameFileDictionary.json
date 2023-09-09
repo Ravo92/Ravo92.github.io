@@ -93,8 +93,7 @@
                 ],
                 "md5": "0F5EC62B0B72CFC7688FE9D1CC9715FB",
                 "filename": "Patch222v26.7z",
-                "languageFiles": {
-                }
+                "languageFiles": {}
             },
             {
                 "version": 22227,
@@ -103,8 +102,7 @@
                 ],
                 "md5": "FC1F1BE654989E5C12901D95F6F18DD0",
                 "filename": "Patch222v27.7z",
-                "languageFiles": {
-                }
+                "languageFiles": {}
             },
             {
                 "version": 22228,
@@ -113,8 +111,7 @@
                 ],
                 "md5": "878C700490627A560E1F41948859C1AA",
                 "filename": "Patch222v28.7z",
-                "languageFiles": {
-                }
+                "languageFiles": {}
             },
             {
                 "version": 22229,
@@ -123,8 +120,7 @@
                 ],
                 "md5": "0E6B1E0AE115984715B0F0D15D212C06",
                 "filename": "Patch222v29.7z",
-                "languageFiles": {
-                }
+                "languageFiles": {}
             },
             {
                 "version": 22230,
@@ -133,8 +129,7 @@
                 ],
                 "md5": "FBB8967192B666CCA1E97F4E06D2D6B0",
                 "filename": "Patch222v30.7z",
-                "languageFiles": {
-                }
+                "languageFiles": {}
             },
             {
                 "version": 22231,
@@ -143,8 +138,7 @@
                 ],
                 "md5": "76B0BDF5AE584169FDEA257E1F89BADC",
                 "filename": "Patch222v31.7z",
-                "languageFiles": {
-                }
+                "languageFiles": {}
             },
             {
                 "version": 22232,
@@ -153,8 +147,7 @@
                 ],
                 "md5": "BC0FE6B8FA5209F7B5191E60ED4D00AF",
                 "filename": "Patch222v32.7z",
-                "languageFiles": {
-                }
+                "languageFiles": {}
             },
             {
                 "version": 22233,
@@ -163,8 +156,7 @@
                 ],
                 "md5": "B85D57102959EB9D4BFDB3547E150E73",
                 "filename": "Patch222v33.7z",
-                "languageFiles": {
-                }
+                "languageFiles": {}
             },
             {
                 "version": 22234,
@@ -252,16 +244,6 @@
     },
     "languagePacks": {
         "BFME1": [
-            {
-                "urls": [
-                    "https://bfmelauncherfiles.ravonator.at/MainGameFiles/BFME1/LangPack_EN.7z"
-                ],
-                "md5": "FDE15BA61BE8C1B321E13A4BA9D8C4A8",
-                "RegistrySelectedLanguageName": "English US",
-                "RegistrySelectedLanguage": "English",
-                "RegistrySelectedLocale": "en_us",
-                "LanguagePackName": "LangPack_EN.7z"
-            },
             {
                 "urls": [
                     "https://bfmelauncherfiles.ravonator.at/MainGameFiles/BFME1/LangPack_EN.7z"
