@@ -222,6 +222,30 @@
                         "filename": "_patch222french.big"
                     }
                 }
+            },
+            {
+                "version": 22237,
+                "urls": [
+                    "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222Files/Patch222v36.7z"
+                ],
+                "md5": "7BC8B9A4587507DBCF46C6DC8F06870E",
+                "filename": "Patch222v36.7z",
+                "languageFiles": {
+                    "de": {
+                        "urls": [
+                            "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222LanguageFiles/_germanpatch22235.big"
+                        ],
+                        "md5": "B32C436DF8C816C280F040FA46E5CD71",
+                        "filename": "_patch222german.big"
+                    },
+                    "fr_fr": {
+                        "urls": [
+                            "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222LanguageFiles/_frenchpatch22236.big"
+                        ],
+                        "md5": "B601F923C155950917A614385D4F236F",
+                        "filename": "_patch222french.big"
+                    }
+                }
             }
         ],
         "BFME2": [
