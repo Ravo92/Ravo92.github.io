@@ -224,12 +224,12 @@
                 }
             },
             {
-                "version": 22237,
+                "version": 222361,
                 "urls": [
-                    "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222Files/Patch222v36.7z"
+                    "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222Files/Patch222v361.7z"
                 ],
                 "md5": "7BC8B9A4587507DBCF46C6DC8F06870E",
-                "filename": "Patch222v36.7z",
+                "filename": "Patch222v361.7z",
                 "languageFiles": {
                     "de": {
                         "urls": [
