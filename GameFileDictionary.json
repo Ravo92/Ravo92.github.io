@@ -87,42 +87,6 @@
                 }
             },
             {
-                "version": 22226,
-                "urls": [
-                    "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222Files/Patch222v26.7z"
-                ],
-                "md5": "0F5EC62B0B72CFC7688FE9D1CC9715FB",
-                "filename": "Patch222v26.7z",
-                "languageFiles": {}
-            },
-            {
-                "version": 22227,
-                "urls": [
-                    "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222Files/Patch222v27.7z"
-                ],
-                "md5": "FC1F1BE654989E5C12901D95F6F18DD0",
-                "filename": "Patch222v27.7z",
-                "languageFiles": {}
-            },
-            {
-                "version": 22228,
-                "urls": [
-                    "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222Files/Patch222v28.7z"
-                ],
-                "md5": "878C700490627A560E1F41948859C1AA",
-                "filename": "Patch222v28.7z",
-                "languageFiles": {}
-            },
-            {
-                "version": 22229,
-                "urls": [
-                    "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222Files/Patch222v29.7z"
-                ],
-                "md5": "0E6B1E0AE115984715B0F0D15D212C06",
-                "filename": "Patch222v29.7z",
-                "languageFiles": {}
-            },
-            {
                 "version": 22230,
                 "urls": [
                     "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222Files/Patch222v30.7z"
