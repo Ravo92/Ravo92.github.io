@@ -159,13 +159,13 @@
                 }
             },
             {
-                "version": 22238,
+                "version": 222380,
                 "urls": [
                     "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222Files/Patch222v38.7z"
                 ],
                 "md5": "B32C54A6F1481B652DC3D5B98584AF92",
                 "filename": "Patch222v38.7z",
-                "hasSubPatchOrHotfix": true,
+                "hasSubPatchOrHotfix": false,
                 "languageFiles": {
                     "de": {
                         "urls": [
