@@ -28,7 +28,10 @@
     "patchPacks": {
         "BFME1": [
             {
-                "version": 106,
+                "Index": 0,
+                "majorVersion": 106,
+                "minorVersion": 0,
+                "revision": 0,
                 "urls": [
                     "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch106Files/Patch106.7z"
                 ],
@@ -87,7 +90,10 @@
                 }
             },
             {
-                "version": 222370,
+                "Index": 2,
+                "majorVersion": 222,
+                "minorVersion": 37,
+                "revision": 0,
                 "urls": [
                     "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222Files/Patch222v37.7z"
                 ],
@@ -111,7 +117,10 @@
                 }
             },
             {
-                "version": 222371,
+                "Index": 3,
+                "majorVersion": 222,
+                "minorVersion": 37,
+                "revision": 1,
                 "urls": [
                     "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222Files/Patch222v371.7z"
                 ],
@@ -135,7 +144,10 @@
                 }
             },
             {
-                "version": 222372,
+                "Index": 4,
+                "majorVersion": 222,
+                "minorVersion": 37,
+                "revision": 2,
                 "urls": [
                     "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222Files/Patch222v372.7z"
                 ],
@@ -159,7 +171,10 @@
                 }
             },
             {
-                "version": 222380,
+                "Index": 5,
+                "majorVersion": 222,
+                "minorVersion": 38,
+                "revision": 0,
                 "urls": [
                     "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222Files/Patch222v38.7z"
                 ],
@@ -184,7 +199,10 @@
                 }
             },
             {
-                "version": 222381,
+                "Index": 6,
+                "majorVersion": 222,
+                "minorVersion": 38,
+                "revision": 1,
                 "urls": [
                     "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222Files/Patch222v381.7z"
                 ],
@@ -208,7 +226,10 @@
                 }
             },
             {
-                "version": 22239,
+                "Index": 7,
+                "majorVersion": 222,
+                "minorVersion": 39,
+                "revision": 0,
                 "urls": [
                     "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222Files/Patch222v39.7z"
                 ],
@@ -233,7 +254,10 @@
                 }
             },
             {
-                "version": 222391,
+                "Index": 8,
+                "majorVersion": 222,
+                "minorVersion": 39,
+                "revision": 1,
                 "urls": [
                     "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222Files/Patch222v391.7z"
                 ],
@@ -255,11 +279,11 @@
                         "filename": "_patch222french.big"
                     }
                 }
-            },
+            }
         ],
         "BFME2": [
             {
-                "version": 109,
+                "majorVersion": 109,
                 "urls": [
                     "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME2/PatchSwitcherInstaller109.rar"
                 ],
