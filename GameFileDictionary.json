@@ -90,6 +90,18 @@
                 }
             },
             {
+                "Index": 1,
+                "majorVersion": 109,
+                "minorVersion": 0,
+                "revision": 0,
+                "urls": [
+                    "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch109Files/Patch109.7z"
+                ],
+                "md5": "8DE749611CC9961374F0A71FB343A7F2",
+                "filename": "Patch109.7z",
+                "languageFiles": {}
+            },
+            {
                 "Index": 2,
                 "majorVersion": 222,
                 "minorVersion": 37,
