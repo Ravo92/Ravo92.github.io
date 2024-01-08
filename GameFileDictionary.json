@@ -12,7 +12,7 @@
             "urls": [
                 "https://bfmelauncherfiles.ravonator.at/MainGameFiles/BFME2/BFME2.7z"
             ],
-            "md5": "ADBEF7B60B6A7ADB50E78FDF5574678E",
+            "md5": "D95AF23BC28646776C9E4C10AE210D45",
             "filename": "BFME2.7z",
             "latestPatchVersionOfficial": 106
         },
@@ -28,7 +28,8 @@
     "patchPacks": {
         "BFME1": [
             {
-                "Index": 0,
+                "index": 0,
+                "visible": true,
                 "majorVersion": 106,
                 "minorVersion": 0,
                 "revision": 0,
@@ -91,6 +92,7 @@
             },
             {
                 "Index": 1,
+                "visible": true,
                 "majorVersion": 109,
                 "minorVersion": 0,
                 "revision": 0,
@@ -102,7 +104,7 @@
                 "languageFiles": {}
             },
             {
-                "Index": 2,
+                "Index": 370,
                 "majorVersion": 222,
                 "minorVersion": 37,
                 "revision": 0,
@@ -129,7 +131,8 @@
                 }
             },
             {
-                "Index": 3,
+                "Index": 371,
+                "visible": false,
                 "majorVersion": 222,
                 "minorVersion": 37,
                 "revision": 1,
@@ -156,7 +159,8 @@
                 }
             },
             {
-                "Index": 4,
+                "Index": 372,
+                "visible": false,
                 "majorVersion": 222,
                 "minorVersion": 37,
                 "revision": 2,
@@ -183,7 +187,8 @@
                 }
             },
             {
-                "Index": 5,
+                "Index": 380,
+                "visible": false,
                 "majorVersion": 222,
                 "minorVersion": 38,
                 "revision": 0,
@@ -192,7 +197,6 @@
                 ],
                 "md5": "B32C54A6F1481B652DC3D5B98584AF92",
                 "filename": "Patch222v38.7z",
-                "hasSubPatchOrHotfix": false,
                 "languageFiles": {
                     "de": {
                         "urls": [
@@ -211,7 +215,8 @@
                 }
             },
             {
-                "Index": 6,
+                "Index": 381,
+                "visible": false,
                 "majorVersion": 222,
                 "minorVersion": 38,
                 "revision": 1,
@@ -238,7 +243,8 @@
                 }
             },
             {
-                "Index": 7,
+                "Index": 390,
+                "visible": false,
                 "majorVersion": 222,
                 "minorVersion": 39,
                 "revision": 0,
@@ -247,7 +253,6 @@
                 ],
                 "md5": "00D2CA6137A1A493B0D32EDC1A07591F",
                 "filename": "Patch222v39.7z",
-                "hasSubPatchOrHotfix": false,
                 "languageFiles": {
                     "de": {
                         "urls": [
@@ -266,7 +271,8 @@
                 }
             },
             {
-                "Index": 8,
+                "Index": 391,
+                "visible": false,
                 "majorVersion": 222,
                 "minorVersion": 39,
                 "revision": 1,
@@ -293,7 +299,8 @@
                 }
             },
             {
-                "Index": 9,
+                "Index": 400,
+                "visible": true,
                 "majorVersion": 222,
                 "minorVersion": 40,
                 "revision": 0,
@@ -320,7 +327,8 @@
                 }
             },
             {
-                "Index": 10,
+                "Index": 410,
+                "visible": true,
                 "majorVersion": 222,
                 "minorVersion": 41,
                 "revision": 0,
@@ -347,7 +355,8 @@
                 }
             },
             {
-                "Index": 11,
+                "Index": 411,
+                "visible": true,
                 "majorVersion": 222,
                 "minorVersion": 41,
                 "revision": 1,
@@ -376,17 +385,17 @@
         ],
         "BFME2": [
             {
+                "Index": 0,
                 "majorVersion": 109,
                 "urls": [
-                    "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME2/PatchSwitcherInstaller109.rar"
+                    "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME2/Patch109.7z"
                 ],
-                "md5": "2D90385DA6D076BF00C430FA2A079F96",
-                "filename": "Patch109.rar",
+                "md5": "4F43629F8BFA2FB76D07805B670E9EA7",
+                "filename": "Patch109.7z",
                 "hasExternalInstaller": true,
-                "externalInstallerHasLaunchAbility": false,
-                "registryPathForInstalledProgram": "SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\BFME2 Patch Switcher",
+                "registryPathForInstalledProgram": "SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\BFME2 Ecth's Patch Switcher",
                 "registryKeyName": "InstallLocation",
-                "thirdPartyToolExecutableName": "BFME2PatchSwitcher.exe",
+                "thirdPartyToolExecutableName": "data\\BFME2Switcher.exe",
                 "languageFiles": {}
             }
         ],
