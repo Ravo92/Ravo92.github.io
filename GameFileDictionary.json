@@ -405,14 +405,14 @@
     },
     "patchPacksBeta": {
         "BFME1": {
-            "version": 1,
+            "version": 2,
             "majorVersion": 222,
             "minorVersion": 42,
             "urls": [
-                "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222BetaFiles/Patch222v42_BETA_1.7z"
+                "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222BetaFiles/Patch222v42_BETA_2.7z"
             ],
-            "md5": "9352759C087329607AE72F3DDDC32DCD",
-            "filename": "Patch222v42_BETA_1.7z"
+            "md5": "049E53551FC493762F383E7557CA857A",
+            "filename": "Patch222v42_BETA_2.7z"
         },
         "BFME2": {
             "version": 0,
