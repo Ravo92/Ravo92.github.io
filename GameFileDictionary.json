@@ -421,7 +421,7 @@
                 "urls": [
                     "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME2/Patch109.7z"
                 ],
-                "md5": "A4506E51D6EFBAE5D9012D456068B895",
+                "md5": "B286E9458E89743F557FD3DF92913EFA",
                 "filename": "Patch109.7z",
                 "hasExternalInstaller": true,
                 "registryPathForInstalledProgram": "SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\BFME2 Ecth's Patch Switcher",
