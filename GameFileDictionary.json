@@ -414,7 +414,10 @@
         "BFME2": [
             {
                 "Index": 0,
+                "visible": true,
                 "majorVersion": 109,
+                "minorVersion": 0,
+                "revision": 0,
                 "urls": [
                     "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME2/Patch109.7z"
                 ],
