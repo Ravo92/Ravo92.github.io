@@ -412,7 +412,7 @@
             },
             {
                 "Index": 430,
-                "visible": true,
+                "visible": false,
                 "majorVersion": 222,
                 "minorVersion": 43,
                 "revision": 0,
