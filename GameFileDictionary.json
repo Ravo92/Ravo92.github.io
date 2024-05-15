@@ -639,11 +639,11 @@
                 "visible": true,
                 "majorVersion": 222,
                 "minorVersion": 48,
-                "revision": 2 ,
+                "revision": 1 ,
                 "urls": [
                     "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222Files/Patch222v481.7z"
                 ],
-                "md5": "0729C07CE124AFE23677F3B6D5D3E608",
+                "md5": "D3FE9217715A549128D11DF9D9106C79",
                 "filename": "Patch222v481.7z",
                 "languageFiles": {
                     "de": {
