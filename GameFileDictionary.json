@@ -298,7 +298,35 @@
                         "filename": "_patch222french.big"
                     }
                 }
-            }            
+            },
+                                     {
+                "Index": 491,
+                "visible": true,
+                "majorVersion": 222,
+                "minorVersion": 49,
+                "revision": 1 ,
+                "urls": [
+                    "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222Files/Patch222v491.7z"
+                ],
+                "md5": "9310AAF8E5320DC1FF2770B4B2A0DEB0",
+                "filename": "Patch222v491.7z",
+                "languageFiles": {
+                    "de": {
+                        "urls": [
+                            "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222LanguageFiles/_germanpatch22235.big"
+                        ],
+                        "md5": "B32C436DF8C816C280F040FA46E5CD71",
+                        "filename": "_patch222german.big"
+                    },
+                    "fr_fr": {
+                        "urls": [
+                            "https://bfmelauncherfiles.ravonator.at/PatchFiles/BFME1/Patch222LanguageFiles/_frenchpatch22236.big"
+                        ],
+                        "md5": "B601F923C155950917A614385D4F236F",
+                        "filename": "_patch222french.big"
+                    }
+                }
+            }  
         ],
         "BFME2": [
             {
