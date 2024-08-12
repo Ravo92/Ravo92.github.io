@@ -359,7 +359,7 @@
         "BFME2": [
             {
                 "Index": 0,
-                "visible": true,
+                "visible": false,
                 "majorVersion": 109,
                 "minorVersion": 0,
                 "revision": 0,
