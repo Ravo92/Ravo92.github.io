@@ -28,7 +28,7 @@ h2 {
 .spenders-list {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: flex-start;
     gap: 15px;
     list-style-type: none;
     padding-left: 0;
@@ -42,7 +42,9 @@ h2 {
     border-radius: 8px;
     transition: background-color 0.3s ease, box-shadow 0.3s ease;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
-    flex: 1 1 calc(33.333% - 30px);
+    flex: 0 1 auto;
+    width: calc(33.333% - 30px);
+    min-width: 200px;
     box-sizing: border-box;
 }
 
