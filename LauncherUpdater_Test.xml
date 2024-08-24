@@ -1,6 +1,6 @@
 <item>
-    <version>2.0.1.0</version>
-    <url>https://bfmelauncherfiles.ravonator.at/LauncherUpdates/BFMELauncherUpdate2010.exe</url>
+    <version>2.0.2.0</version>
+    <url>https://bfmelauncherfiles.ravonator.at/LauncherUpdates/BFMELauncherUpdate2020.exe</url>
     <changelog>https://ravo92.github.io/changelogpagelauncher/index.html</changelog>
     <args>/SILENT</args>
 </item>
